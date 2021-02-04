@@ -1,0 +1,8 @@
+com/hack/sw_hack/MainActivity.java
+ com.hack.sw_hack.MainActivity
+com/hack/sw_hack/StartActivity.java
+ com.hack.sw_hack.StartActivity
+com/hack/sw_hack/SignUpActivity.java
+ com.hack.sw_hack.SignUpActivity
+com/hack/sw_hack/BuildConfig.java
+ com.hack.sw_hack.BuildConfig
