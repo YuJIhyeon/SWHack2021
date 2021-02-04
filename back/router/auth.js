@@ -9,21 +9,23 @@ const jwtSecret = 'swhackaton'
 
 async function pwHash(password) {
   const hash = await crypto.hash('sha256')(salt+password);
-  return hash;
+  console.log(hash);
+  return hash.toString('hex');
 }
 
 //사용자 회원가입
 router.post('/register', async (req, res) => {
   const {id, password, interest, age, sex} = req.body;
   try {
-    const exist = await db.query('SELECT * FROM user WHERE ID = ?', id);
-    if(exist[0].length !== 0) {
+    const exist = await db.query('SELECT * FROM user WHERE ID = ?', [id]);
+    if(exist['rows'] === undefined) {
       res.status(409).json({
         message: 'already exist user id'
       });
       return;
     }
-    await db.query('INSERT INTO user(ID, Password, Interest, age, sex) VALUE(?, ?, ?, ?, ?)', id, await pwHash(password), interest, age, sex);
+    const hash = await pwHash(password);
+    await db.query('INSERT INTO user(ID, Password, Interest, age, sex) VALUE(?, ?, ?, ?, ?)', [id, hash, interest, age, sex]);
     res.status(200).json({
       message: 'success'
     });
