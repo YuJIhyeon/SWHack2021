@@ -44,7 +44,7 @@ router.post('/login', async (req, res) => {
       });
       return;
     }
-    let row = db.query('SELECT * FROM user WHERE ID = ?', id);
+    let row = await db.query('SELECT * FROM user WHERE ID = ?', id);
     let data = row[0];
     if(data.Password !== await pwHash(password)) {
       res.status(409).json({
