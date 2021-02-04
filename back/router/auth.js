@@ -37,22 +37,23 @@ router.post('/register', async (req, res) => {
 router.post('/login', async (req, res) => {
   const {id, password} = req.body;
   try {
-    let row = db.query('SELECT * FROM user WHERE ID = ?', id);
-    let data = row[0];
-    if(data.length === 0) {
+    const exist = await db.query('SELECT EXISTS(SELECT * FROM user WHERE ID = ?) as isExist', [id]);
+    if(!exist[0]['isExist']) {
       res.status(404).json({
         message: 'user id not found'
       });
       return;
     }
-    if(data[0].Password !== await pwHash(password)) {
+    let row = db.query('SELECT * FROM user WHERE ID = ?', id);
+    let data = row[0];
+    if(data.Password !== await pwHash(password)) {
       res.status(409).json({
         message: 'password wrong!'
       });
       return;
     }
     const token = jwt.sign({
-        id: data[0].id,
+        id: data.id,
       },
       jwtSecret,
       {
