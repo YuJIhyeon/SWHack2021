@@ -9,7 +9,6 @@ const jwtSecret = 'swhackaton'
 
 async function pwHash(password) {
   const hash = await crypto.hash('sha256')(salt+password);
-  console.log(hash);
   return hash.toString('hex');
 }
 
@@ -17,8 +16,8 @@ async function pwHash(password) {
 router.post('/register', async (req, res) => {
   const {id, password, interest, age, sex} = req.body;
   try {
-    const exist = await db.query('SELECT * FROM user WHERE ID = ?', [id]);
-    if(exist['rows'] === undefined) {
+    const exist = await db.query('SELECT EXISTS(SELECT * FROM user WHERE ID = ?) as isExist', [id]);
+    if(exist[0]['isExist']) {
       res.status(409).json({
         message: 'already exist user id'
       });
