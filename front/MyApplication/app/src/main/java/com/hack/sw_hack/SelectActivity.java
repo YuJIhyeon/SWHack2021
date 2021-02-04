@@ -2,6 +2,7 @@ package com.hack.sw_hack;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.View;
@@ -13,12 +14,13 @@ public class SelectActivity extends AppCompatActivity implements View.OnClickLis
     Boolean[] selectButton = new Boolean[6];
     ArrayList<Button> buttonList = new ArrayList<>();
     final int[] buttonIndex = {R.id.button1, R.id.button2, R.id.button3, R.id.button4, R.id.button5, R.id.button6};
-
+    Button nextButton = null;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_select);
-
+        nextButton = (Button) findViewById(R.id.next);
+        nextButton.setOnClickListener(this);
         for(int i = 0; i<6; i++){
             buttonList.add((Button) findViewById(buttonIndex[i]));
             buttonList.get(i).setOnClickListener(this);
@@ -72,6 +74,9 @@ public class SelectActivity extends AppCompatActivity implements View.OnClickLis
 
                 }
                 break;
+            case R.id.next:
+                finish();
+                startActivity(new Intent(SelectActivity.this, MainActivity.class));
         }
     }
 }
