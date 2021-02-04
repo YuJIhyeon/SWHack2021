@@ -2,10 +2,12 @@ package com.hack.sw_hack;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
@@ -27,7 +29,7 @@ public class StartActivity extends AppCompatActivity {
         setContentView(R.layout.activity_start);
 
         editText_id = (EditText) findViewById(R.id.emailEditText);
-        editText_id = (EditText) findViewById(R.id.passwordEditText);
+        editText_pw = (EditText) findViewById(R.id.passwordEditText);
 
         Button loginButton = (Button) findViewById(R.id.loginButton);
         loginButton.setOnClickListener(new View.OnClickListener() {
@@ -35,11 +37,15 @@ public class StartActivity extends AppCompatActivity {
             public void onClick(View v) {
                 input_id = editText_id.getText().toString();
                 input_pw = editText_pw.getText().toString();
-                sendRequest_login();
+
+                //sendRequest_login();
+
+                finish();
+                startActivity(new Intent(StartActivity.this, SelectActivity.class));
             }
         });
 
-        Button signUpButton = (Button) findViewById(R.id.signUpButton);
+        TextView signUpButton = (TextView) findViewById(R.id.signUpButton);
         signUpButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -47,7 +53,7 @@ public class StartActivity extends AppCompatActivity {
             }
         });
 
-        Button findButton = (Button) findViewById(R.id.findButton);
+        TextView findButton = (TextView) findViewById(R.id.findButton);
         findButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

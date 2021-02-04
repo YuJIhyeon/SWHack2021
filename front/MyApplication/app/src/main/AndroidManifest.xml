@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.hack.sw_hack">
-
     <!-- 인터넷 권한 추가 -->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/icon_ver1"
+        android:icon="@mipmap/icon_ver2"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/icon_ver1"
+        android:roundIcon="@mipmap/icon_ver2"
         android:supportsRtl="true"
         android:theme="@style/Theme.SW_Hack">
-        <activity android:name=".SignUpActivity"></activity>
+        <activity android:name=".SelectActivity"></activity>
+        <activity android:name=".SignUpActivity" />
         <activity android:name=".MainActivity" />
         <activity android:name=".StartActivity">
             <intent-filter>
