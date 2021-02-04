@@ -1,0 +1,22 @@
+{
+  "name": "garasadae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuJIhyeon/SWHack2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuJIhyeon/SWHack2021/issues"
+  },
+  "homepage": "https://github.com/YuJIhyeon/SWHack2021#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
