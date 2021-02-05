@@ -8,21 +8,21 @@
         android:id="@+id/action_home"
         android:enabled="true"
         android:state_checked="true"
-        android:icon="@drawable/ic_baseline_home_24"
+        android:icon="@mipmap/home_icon"
         android:title="home" />
     <item
         android:id="@+id/action_add"
         android:enabled="true"
-        android:icon="@drawable/ic_baseline_add_24"
+        android:icon="@mipmap/add_icon"
         android:title="add" />
     <item
         android:id="@+id/action_find"
         android:enabled="true"
-        android:icon="@drawable/ic_baseline_zoom_in_24"
+        android:icon="@mipmap/find_icon"
         android:title="find" />
     <item
         android:id="@+id/action_setting"
         android:enabled="true"
-        android:icon="@drawable/ic_baseline_settings_24"
+        android:icon="@mipmap/setting_icon"
         android:title="setting" />
 </menu>
