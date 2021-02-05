@@ -1,5 +1,6 @@
 import express from 'express'
 import verifyToken from '../middleware/verifyToken.js'
+import db from '../config/db.js'
 
 const router = express.Router()
 
@@ -16,18 +17,19 @@ router.post('/', verifyToken, async (req, res) => {
         return;
       }
       const data = await db.query('INSERT INTO phrase(phrase, categoryName, writerId, referenceName) VALUE(?, ?, ?, ?)', [phrase, categoryName, writerId, referenceName]);
-      console.log(data);
+      const insertId = data['insertId'];
       if(categoryName === 'great') {
-        await db.query('INSERT INTO great(?')
+        await db.query('INSERT INTO great(phraseID, name) VALUE(?, ?)', insertId, req.body.name);
       } else if(categoryName === 'media') {
-
+        await db.query('INSERT INTO media(phraseID, title, type) VALUE(?, ?, ?)', insertId, req.body.title, req.body.type);
       } else if(categoryName === 'proverb') {
-
+        await db.query('INSERT INTO proverb(phraseID, nation) VALUE(?, ?)', insertId, req.body.nation);
       }
       res.status(200).json({
         message: 'success'
       });
     } catch (error) {
+      console.log(error);
       res.status(500).json(error);
     }
   })
