@@ -1,6 +1,7 @@
 import express from 'express'
 import verifyToken from '../middleware/verifyToken.js'
 import db from '../config/db.js'
+import getPhrase from '../func/getPhrase.js'
 
 const router = express.Router()
 
@@ -36,7 +37,14 @@ router.post('/', verifyToken, async (req, res) => {
   
 
 //명언 불러오기
-router.get('/:id');
+router.get('/:id', async (req, res) => {
+  try {
+    res.status(200).json(getPhrase(req.params.id));
+  } catch(error) {
+    console.log(error);
+    res.status(500).json(error);
+  }
+});
 
 
 //명언 검색
