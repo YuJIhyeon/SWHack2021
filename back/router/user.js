@@ -9,7 +9,7 @@ router.get('/phrase', verifyToken, async (req, res) => {
   try {
     const userID = res.locals.jwtPayload.id;
     const data = await db.query('SELECT * FROM phrase WHERE WriterID = ?', userID);
-    res.status(200).json(data[0]);
+    res.status(200).json(data);
   }
   catch (error) {
     console.log(error);
