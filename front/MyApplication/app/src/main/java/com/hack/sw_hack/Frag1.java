@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.ArrayRes;
 import androidx.annotation.NonNull;
@@ -52,10 +53,13 @@ public class Frag1 extends Fragment{
     private View view;
     ArrayList<SectionDataModel> allSampleData;
     ImageButton btn01,btn02, btn03, btn04, btn05;
+    ImageButton likeButton;
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         view = inflater.inflate(R.layout.frag1, container, false);
+
         btn01 = (ImageButton) view.findViewById(R.id.btn01);
         btn02 = (ImageButton) view.findViewById(R.id.btn02);
         btn03 = (ImageButton) view.findViewById(R.id.btn03);
@@ -125,6 +129,7 @@ public class Frag1 extends Fragment{
             singleItem.add(new SingleItemModel("", R.mipmap.wish_saying01));   //내부 리사이클러뷰 글, 이미
             singleItem.add(new SingleItemModel("", R.mipmap.wish_saying02));
             singleItem.add(new SingleItemModel("", R.mipmap.wish_saying03));
+
 
             dm.setAllItemsInSection(singleItem);
 

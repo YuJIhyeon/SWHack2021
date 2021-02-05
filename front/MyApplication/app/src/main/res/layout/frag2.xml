@@ -60,6 +60,7 @@
     </RelativeLayout>
 
     <RelativeLayout
+        android:id="@+id/background"
         android:layout_width="match_parent"
         android:layout_height="230dp"
         android:layout_marginTop="1dp"
@@ -69,10 +70,11 @@
             android:id="@+id/editTextLayout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerInParent="true">
+            android:layout_centerInParent="true"
+            android:visibility="visible">
 
             <TextView
-                android:id="@+id/text"
+                android:id="@+id/text1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_centerHorizontal="true"
@@ -80,23 +82,33 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/text"
+                android:layout_below="@+id/text1"
                 android:orientation="horizontal">
                 <TextView
+                    android:id="@+id/text2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="당신의 "/>
                 <TextView
+                    android:id="@+id/text3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="#0F84F7"
                     android:text="가라사대"/>
                 <TextView
+                    android:id="@+id/text4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="를 전해주세요."/>
 
             </LinearLayout>
+
+            <TextView
+                android:id="@+id/wish_saying_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="inputText"
+                android:visibility="gone" />
         </RelativeLayout>
 
         <ImageButton
@@ -128,27 +140,27 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_margin="10dp"
-                android:background="@mipmap/m_btn01"/>
+                android:background="@drawable/selector_write_button01"/>
             <ImageButton
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_margin="10dp"
-                android:background="@mipmap/m_btn02"/>
+                android:background="@drawable/selector_write_button02"/>
             <ImageButton
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_margin="10dp"
-                android:background="@mipmap/m_btn03"/>
+                android:background="@drawable/selector_write_button03"/>
             <ImageButton
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_margin="10dp"
-                android:background="@mipmap/m_btn04"/>
+                android:background="@drawable/selector_write_button04"/>
             <ImageButton
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_margin="10dp"
-                android:background="@mipmap/m_btn05"/>
+                android:background="@drawable/selector_write_button05"/>
         </LinearLayout>
 
     </RelativeLayout>

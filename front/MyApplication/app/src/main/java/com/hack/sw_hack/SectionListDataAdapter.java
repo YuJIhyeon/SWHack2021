@@ -57,7 +57,7 @@ class SectionListDataAdapter extends RecyclerView.Adapter<SectionListDataAdapter
         public SingleItemRowHolder(View view) {
             super(view);
 
-            this.word = (TextView) view.findViewById(R.id.word);
+            this.word = (TextView) view.findViewById(R.id.wish_saying_text);
             this.imageView = (ImageView) view.findViewById(R.id.img);
 
 
