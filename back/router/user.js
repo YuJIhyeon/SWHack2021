@@ -8,5 +8,7 @@ router.post('/preference');
 //내가 등록한 문구
 router.get('/phrase');
 
-//내가 스크랩한 문구
+//내가 스크랩(좋아요)한 문구
 router.get('/scrap');
+
+export default router;
