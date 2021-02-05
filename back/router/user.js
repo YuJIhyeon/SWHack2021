@@ -8,7 +8,7 @@ const router = express.Router()
 router.get('/phrase', verifyToken, async (req, res) => {
   try {
     const userID = res.locals.jwtPayload.id;
-    const data = await db.query('SELECT * FROM phrase WHERE WriterID = ?', userID);
+    const data = await db.query('SELECT * FROM phrase WHERE WriterID = ? AND referenceName = ?', userID, req.query.reference);
     res.status(200).json(data);
   }
   catch (error) {
@@ -21,7 +21,7 @@ router.get('/phrase', verifyToken, async (req, res) => {
 router.get('/scrap', verifyToken, async (req, res) => {
   try {
     const userID = res.locals.jwtPayload.id;
-    const data = await db.query('SELECT * FROM phrase JOIN liked ON phrase.id = liked.phraseID WHERE liked.userID = ?', [userID]);
+    const data = await db.query('SELECT * FROM phrase JOIN liked ON phrase.id = liked.phraseID WHERE liked.userID = ? AND referenceName = ?', [userID, req.query.reference]);
     res.status(200).json(data);
   } catch (error) {
     console.log(error);
