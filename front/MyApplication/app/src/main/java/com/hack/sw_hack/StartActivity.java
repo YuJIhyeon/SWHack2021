@@ -27,8 +27,7 @@ public class StartActivity extends AppCompatActivity {
 
     EditText editText_id, editText_pw;
     String input_id, input_pw;
-
-    @Override
+     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_start);
@@ -37,6 +36,14 @@ public class StartActivity extends AppCompatActivity {
         String sitename = "SKIP";
         TextView t = (TextView)findViewById(R.id.skip);
         t.setText(Html.fromHtml("<u>" + sitename + "</u>"));
+
+        t.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+                startActivity(new Intent(StartActivity.this, SelectActivity.class));
+            }
+        });
 
         editText_id = (EditText) findViewById(R.id.emailEditText);
         editText_pw = (EditText) findViewById(R.id.passwordEditText);

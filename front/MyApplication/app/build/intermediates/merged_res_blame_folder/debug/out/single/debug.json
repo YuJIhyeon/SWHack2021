@@ -1,596 +1,658 @@
 [
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_home_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_home_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_keyboard_arrow_left_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_wish_saying01.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\wish_saying01.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_or_img.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/or_img.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_arrow_forward_ios_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_arrow_forward_ios_24.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_keyboard_arrow_right_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_select03.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\select03.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_write_button03.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_write_button03.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_check_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_check_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_add_icon.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\add_icon.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_setting_ex_03.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\setting_ex_03.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_zoom_in_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_zoom_in_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_keyboard_arrow_left_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_icon_ver1.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/icon_ver1.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_add_a_photo_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_click_card_back.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/click_card_back.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_settings_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_settings_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_press_select05.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/press_select05.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_keyboard_arrow_left_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-v24_view.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable-v24/view.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_btn05.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\btn05.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn05_press.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn05_press.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_home_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_home_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_select05.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select05.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_home_icon.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\home_icon.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn02_press.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn02_press.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_zoom_in_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_zoom_in_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_unlike.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/unlike.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_press_select03.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\press_select03.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_frag2.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/frag2.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_add_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_home_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_home_24.png"
     },
     {
-<<<<<<< HEAD
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_m_btn03.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\m_btn03.png"
-    },
-    {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_check_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_check_24.png"
-    },
-    {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_keyboard_arrow_left_24.png"
-=======
-        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_write_button02.xml.flat",
-        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_write_button02.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_keyboard_arrow_right_24.png"
     },
     {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_write_button02.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_write_button02.xml"
+    },
+    {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_keyboard_arrow_left_24.png"
->>>>>>> parent of ef87ba4... .
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag2.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\frag2.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_loding_ver1.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxxhdpi/loding_ver1.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_setting_ex_02.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\setting_ex_02.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_press_select04.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/press_select04.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\list_item.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_check_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_check_24.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_check_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_check_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_repple.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/repple.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_keyboard_arrow_right_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_card_info.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/activity_card_info.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_keyboard_arrow_right_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_keyboard_arrow_right_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_home_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_home_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_btn03.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/btn03.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_loading.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\loading.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_select04.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select04.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_home_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_home_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_check_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_add_a_photo_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\drawable-v24\\btn.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\activity_select.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn01.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn01.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_home_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_home_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_press_select02.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\press_select02.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_keyboard_arrow_right_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag3.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\frag3.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_settings_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_popup_edit.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/activity_popup_edit.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_arrow_forward_ios_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_arrow_forward_ios_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_check_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_zoom_in_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_zoom_in_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_check_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_m_btn04.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\m_btn04.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_add_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_select02.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\select02.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_setting_ex_01.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/setting_ex_01.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_settings_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_settings_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_frag3.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/frag3.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_repple.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\repple.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_wish_saying03.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/wish_saying03.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_ver1.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\drawable\\logo_ver1.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_settings_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_settings_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_zoom_in_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_zoom_in_24.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_click_card_back.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\click_card_back.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_check_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_setting_ex_01.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\setting_ex_01.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_settings_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_unlike.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\unlike.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_zoom_in_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_zoom_in_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_ver1.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\drawable\\icon_ver1.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/list_item.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_m_btn05.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\m_btn05.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_garo.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/garo.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_a_photo_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_a_photo_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_wish_saying03.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\wish_saying03.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_select01.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\select01.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_zoom.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/zoom.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_btn03.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\btn03.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_btn01.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/btn01.png"
     },
     {
-<<<<<<< HEAD
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_settings_24.xml"
-    },
-    {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_24.png"
-=======
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
->>>>>>> parent of ef87ba4... .
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_zoom_in_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_zoom_in_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn02.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn02.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_click_card_arrow.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\click_card_arrow.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_home_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_home_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_keyboard_arrow_right_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_bol.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/bol.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon_ver2.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_ver2.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_add_a_photo_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_find_icon.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/find_icon.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_keyboard_arrow_left_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_frag4_1.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/frag4_1.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_keyboard_arrow_left_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_keyboard_arrow_left_24.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_icon_ver2.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxxhdpi/icon_ver2.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag4.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\frag4.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_arrow_forward_ios_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_arrow_forward_ios_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_m_btn02.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\m_btn02.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_zoom_in_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_zoom_in_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_keyboard_arrow_right_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_keyboard_arrow_right_24.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_select04.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\select04.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_select.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/activity_select.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_frag2_1.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/frag2_1.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag1.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\frag1.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_btn04.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/btn04.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_single_card.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\list_single_card.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_keyboard_arrow_left_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_arrow_forward_ios_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_arrow_forward_ios_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_select02.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select02.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_settings_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_settings_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_add_a_photo_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_profile.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\profile.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_press_select02.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/press_select02.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_find_icon.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\find_icon.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_btn02.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\btn02.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_more.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/activity_more.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_check_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_check_24.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_settings_24.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_settings_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_settings_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_setting_ex_03.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/setting_ex_03.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_keyboard_arrow_left_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_keyboard_arrow_left_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_wish_saying01.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/wish_saying01.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_keyboard_arrow_right_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_loding_ver1.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\loding_ver1.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_arrow_forward_ios_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_arrow_forward_ios_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_like_button.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_like_button.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_ver2.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_ver2.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_home_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_home_24.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_select06.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\select06.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_press_select01.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/press_select01.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-v24_result.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable-v24/result.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_zoom_in_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_zoom_in_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_arrow_forward_ios_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_arrow_forward_ios_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_press_select06.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\press_select06.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_keyboard_arrow_left_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn05.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn05.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_arrow_forward_ios_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_arrow_forward_ios_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_add_icon.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/add_icon.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_wish_saying02.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/wish_saying02.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_a_photo_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_a_photo_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_select01.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select01.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_keyboard_arrow_right_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_home_icon.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/home_icon.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag2_1.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\frag2_1.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_home_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_home_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_arrow_forward_ios_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_arrow_forward_ios_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_serobar.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/serobar.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_zoom_in_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_zoom_in_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_settings_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_zoom_in_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_zoom_in_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_wish_saying04.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\wish_saying04.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_home_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_home_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_press_select05.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\press_select05.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_check_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_check_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_keyboard_arrow_left_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\activity_start.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn04_press.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn04_press.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn01_press.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn01_press.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_setting_icon.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\setting_icon.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-v24_btn.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable-v24/btn.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_m_btn01.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\m_btn01.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_list_single_card.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/list_single_card.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_check_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_check_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_settings_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_keyboard_arrow_left_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_keyboard_arrow_left_24.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_select05.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\select05.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_arrow_forward_ios_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_arrow_forward_ios_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_a_photo_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_a_photo_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_write_button05.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_write_button05.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_zoom_in_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_zoom_in_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn04.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn04.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_home_24.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_logo_ver1.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/logo_ver1.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_setting_icon.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/setting_icon.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_result.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\drawable-v24\\result.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn03_press.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn03_press.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_press_select04.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\press_select04.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_check_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_keyboard_arrow_left_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_add_a_photo_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_btn02.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/btn02.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_view.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\drawable-v24\\view.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_zoom_in_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_zoom_in_24.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn03.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn03.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_btn05.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/btn05.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_settings_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_add_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_a_photo_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_a_photo_24.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_add_24.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_check_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_check_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_press_select01.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\press_select01.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_press_select03.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/press_select03.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_a_photo_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_a_photo_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_add_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_loading.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxxhdpi/loading.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_btn01.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\btn01.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_sign_up.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_like.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\like.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_arrow_forward_ios_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_arrow_forward_ios_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_keyboard_arrow_right_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_cardv.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/cardv.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_keyboard_arrow_right_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_write_button01.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_write_button01.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_home_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_home_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_select03.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select03.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_card_info.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\layout\\activity_card_info.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_click_card_arrow.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/click_card_arrow.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_a_photo_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_a_photo_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_settings_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_check_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_arrow_forward_ios_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_arrow_forward_ios_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_add_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_home_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_home_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_add_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_btn04.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\btn04.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_home_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_home_24.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_zoom_in_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_zoom_in_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_press_select06.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/press_select06.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\menu\\menu.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_setting_ex_02.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/setting_ex_02.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_a_photo_24.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_a_photo_24.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_logo_ver2.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxxhdpi/logo_ver2.png"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_24.xml"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_write_button04.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_write_button04.xml"
     },
     {
-        "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_wish_saying02.png.flat",
-        "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\wish_saying02.png"
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_wish_saying04.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/wish_saying04.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_frag4.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/frag4.xml"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_arrow_forward_ios_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_arrow_forward_ios_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_keyboard_arrow_left_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_zoom_in_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_zoom_in_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_select06.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select06.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_add_a_photo_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_add_a_photo_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_activity_start.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_settings_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_settings_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_like.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/like.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_profile.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/profile.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_arrow_forward_ios_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_arrow_forward_ios_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_add_a_photo_24.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_add_a_photo_24.xml"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/layout_frag1.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/frag1.xml"
     }
 ]

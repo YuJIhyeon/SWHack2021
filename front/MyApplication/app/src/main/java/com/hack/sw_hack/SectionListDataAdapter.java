@@ -37,7 +37,6 @@ class SectionListDataAdapter extends RecyclerView.Adapter<SectionListDataAdapter
     public void onBindViewHolder(SingleItemRowHolder holder, int i) {
 
         SingleItemModel singleItem = itemsList.get(i);
-
         holder.word.setText(singleItem.getWise_saying());
         Glide.with(mContext).load(singleItem.getImg()).error(R.mipmap.logo_ver2).into(holder.imageView);
 

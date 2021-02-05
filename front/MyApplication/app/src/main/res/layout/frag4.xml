@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#FFFFFF"
-        android:paddingTop="33dp"
+        android:paddingTop="5dp"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:paddingBottom="10dp">
@@ -21,36 +21,35 @@
             android:layout_width="40dp"
             android:layout_height="wrap_content"
             android:background="@drawable/ic_baseline_keyboard_arrow_left_24"
-            android:text=""
-            android:layout_centerVertical="true"
-            app:backgroundTint="@color/black" />
+            android:text=""/>
 
         <LinearLayout
+            android:id="@+id/textlayout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
             android:orientation="horizontal">
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/userIdText"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginLeft="4dp"
                 android:layout_marginRight="3dp"
-                android:text="GaraSadae"
-                android:textSize="19sp" />
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="4dp"
-            android:layout_marginLeft="4dp"
-            android:layout_marginRight="3dp"
-            android:text="가라사대"
-            android:textSize="19sp"
-            android:textColor="#0F84F7"/>
+                android:text="아이디sladml "
+                android:textSize="24sp"/>
 
-
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="3dp"
+                android:text="가라사대"
+                android:textSize="24sp"
+                android:textColor="#0F84F7"/>
         </LinearLayout>
+
     </RelativeLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -63,8 +62,8 @@
 
         <ImageView
             android:id="@+id/profile"
-            android:layout_width="110dp"
-            android:layout_height="110dp"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
             android:src="@mipmap/profile"/>
         <TextView
             android:layout_width="wrap_content"
@@ -85,69 +84,70 @@
         android:paddingBottom="15dp"
         android:background="#FFFFFF">
 
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center|center_horizontal"
-                android:layout_weight="1"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="23"
-                    android:textSize="22sp"/>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="가라사대"
-                    android:textSize="22sp"/>
-            </LinearLayout>
-            <ImageView
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center|center_horizontal"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingTop="20dp"
-                android:src="@mipmap/serobar"/>
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center|center_horizontal"
-                android:layout_weight="1"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="23"
-                    android:textSize="22sp"/>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="가라사대"
-                    android:textSize="22sp"/>
-            </LinearLayout>
-            <ImageView
+                android:text="23"
+                android:textSize="22sp"/>
+            <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingTop="20dp"
-                android:src="@mipmap/serobar"/>
-            <LinearLayout
-                android:layout_width="match_parent"
+                android:text="가라사대"
+                android:textSize="22sp"/>
+        </LinearLayout>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:src="@mipmap/serobar"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center|center_horizontal"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:gravity="center|center_horizontal"
-                android:layout_weight="1"
-                android:orientation="vertical">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="23"
-                    android:textSize="22sp"/>
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="가라사대"
-                    android:textSize="22sp"/>
-            </LinearLayout>
+                android:text="87"
+                android:textSize="22sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="코멘트"
+                android:textSize="22sp"/>
+        </LinearLayout>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:src="@mipmap/serobar"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center|center_horizontal"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="143"
+                android:textSize="22sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="좋아요"
+                android:textSize="22sp"/>
+        </LinearLayout>
     </LinearLayout>
     <TextView
+        android:id="@+id/t1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="보관함"
@@ -159,6 +159,7 @@
         android:textColor="#606060"
         android:background="#FFFFFF"/>
     <LinearLayout
+        android:id="@+id/l1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -177,12 +178,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@mipmap/serobar"/>
+
         <TextView
+            android:id="@+id/setting_like_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
             android:text="좋아요"
-            android:textSize="20sp"
-            android:layout_marginLeft="30dp"/>
+            android:textSize="20sp" />
 
     </LinearLayout>
     <ScrollView
@@ -195,7 +198,7 @@
             android:gravity="center_horizontal|center"
             android:orientation="vertical">
             <TextView
-                android:id="@+id/garalist01"
+                android:id="@+id/frag4_01"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="위인"
@@ -205,14 +208,37 @@
                 android:gravity="center_horizontal|center"
                 android:textSize="22sp"
                 android:background="#FFFFFF"/>
-
-<<<<<<< HEAD
             <LinearLayout
-                android:id="@+id/allLiner"
-=======
+                android:id="@+id/linearLayout01"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#0F48F7"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+            </LinearLayout>
             <TextView
-                android:id="@+id/garalist02"
->>>>>>> parent of ef87ba4... .
+                android:id="@+id/frag4_02"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#FFFFFF"
@@ -220,126 +246,40 @@
                 android:textSize="22sp"
                 android:paddingTop="5dp"
                 android:gravity="center_horizontal|center"
-<<<<<<< HEAD
-                android:padding="10dp"
-                android:orientation="vertical"
-                android:visibility="visible">
-                <TextView
-                    android:id="@+id/garalist01"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="위인"
-                    android:lines="1"
-                    android:gravity="center_horizontal|center"
-                    android:textSize="22sp"
-                    android:paddingBottom="10dp"
-                    android:background="#FFFFFF"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="10dp"
-                    android:paddingBottom="10dp"
-                    android:src="@mipmap/garo"/>
-                <TextView
-                    android:id="@+id/garalist02"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="#FFFFFF"
-                    android:lines="1"
-                    android:textSize="22sp"
-                    android:gravity="center_horizontal|center"
-                    android:paddingBottom="10dp"
-                    android:text="게임" />
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="10dp"
-                    android:paddingBottom="10dp"
-                    android:src="@mipmap/garo"/>
-                <TextView
-                    android:id="@+id/garalist03"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="영화"
-                    android:textSize="22sp"
-                    android:gravity="center_horizontal|center"
-                    android:paddingBottom="10dp"
-                    android:lines="1"
-                    android:background="#FFFFFF"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="10dp"
-                    android:paddingBottom="10dp"
-                    android:src="@mipmap/garo"/>
-                <TextView
-                    android:id="@+id/garalist04"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="만화"
-                    android:textSize="22sp"
-                    android:gravity="center_horizontal|center"
-                    android:paddingBottom="10dp"
-                    android:lines="1"
-                    android:background="#FFFFFF"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="10dp"
-                    android:paddingBottom="10dp"
-                    android:src="@mipmap/garo"/>
-                <TextView
-                    android:id="@+id/garalist05"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:textSize="22sp"
-                    android:paddingBottom="10dp"
-                    android:gravity="center_horizontal|center"
-                    android:text="게임"
-                    android:lines="1"
-                    android:background="#FFFFFF"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingLeft="10dp"
-                    android:paddingRight="10dp"
-                    android:paddingBottom="10dp"
-                    android:src="@mipmap/garo"/>
-                <TextView
-                    android:id="@+id/garalist06"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:textSize="22sp"
-                    android:gravity="center_horizontal|center"
-                    android:paddingBottom="10dp"
-                    android:text="애니"
-                    android:lines="1"
-                    android:background="#FFFFFF"/>
-            </LinearLayout>
-            <LinearLayout
-                android:id="@+id/linear01"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="vertical"
-                android:visibility="invisible">
-
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:src="@mipmap/setting_ex_03"/>
-
-            </LinearLayout>
-=======
                 android:paddingBottom="5dp"
                 android:layout_marginTop="1dp"
                 android:text="게임" />
+            <LinearLayout
+                android:id="@+id/linearLayout02"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#0F48F7"
+                android:visibility="gone">
 
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+            </LinearLayout>
             <TextView
-                android:id="@+id/garalist03"
+                android:id="@+id/frag4_03"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="영화"
@@ -350,8 +290,37 @@
                 android:paddingBottom="5dp"
                 android:lines="1"
                 android:background="#FFFFFF"/>
+            <LinearLayout
+                android:id="@+id/linearLayout03"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#0F48F7"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+            </LinearLayout>
             <TextView
-                android:id="@+id/garalist04"
+                android:id="@+id/frag4_04"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="만화"
@@ -362,8 +331,37 @@
                 android:layout_marginTop="1dp"
                 android:lines="1"
                 android:background="#FFFFFF"/>
+            <LinearLayout
+                android:id="@+id/linearLayout04"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#0F48F7"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+            </LinearLayout>
             <TextView
-                android:id="@+id/garalist05"
+                android:id="@+id/frag4_05"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="22sp"
@@ -374,8 +372,37 @@
                 android:text="게임"
                 android:lines="1"
                 android:background="#FFFFFF"/>
+            <LinearLayout
+                android:id="@+id/linearLayout05"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#0F48F7"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+            </LinearLayout>
             <TextView
-                android:id="@+id/garalist06"
+                android:id="@+id/frag4_06"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="1dp"
@@ -386,8 +413,36 @@
                 android:text="애니"
                 android:lines="1"
                 android:background="#FFFFFF"/>
+            <LinearLayout
+                android:id="@+id/linearLayout06"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#0F48F7"
+                android:visibility="gone">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_03"/>
+
+            </LinearLayout>
         </LinearLayout>
->>>>>>> parent of ef87ba4... .
 
     </ScrollView>
 

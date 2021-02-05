@@ -1590,16 +1590,13 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-<<<<<<< HEAD
 drawable result
-=======
 drawable selector_like_button
 drawable selector_write_button01
 drawable selector_write_button02
 drawable selector_write_button03
 drawable selector_write_button04
 drawable selector_write_button05
->>>>>>> parent of ef87ba4... .
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1690,6 +1687,7 @@ id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
 id backButton
+id background
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -1698,11 +1696,6 @@ id blocking
 id bottom
 id bottomNavi
 id bounce
-id btn01
-id btn02
-id btn03
-id btn04
-id btn05
 id btnMore
 id button
 id button1
@@ -1787,12 +1780,30 @@ id fill_horizontal
 id fill_vertical
 id filled
 id findButton
+id finishButton
 id fitToContents
 id fixed
 id flip
 id floating
 id forever
-id frame
+id frag4_01
+id frag4_02
+id frag4_03
+id frag4_04
+id frag4_05
+id frag4_06
+id freg2_1_1
+id freg2_1_2
+id freg2_1_3
+id freg2_1_4
+id freg2_1_5
+id freg2_1_6
+id garalist01
+id garalist02
+id garalist03
+id garalist04
+id garalist05
+id garalist06
 id ghost_view
 id ghost_view_holder
 id glide_custom_view_target_tag
@@ -1812,6 +1823,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView2
 id img
 id info
 id invisible
@@ -1820,20 +1832,29 @@ id itemTitle
 id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
+id l1
 id labeled
 id largeLabel
 id layout
 id left
 id likeButton
 id likeButton_repple
+id likebutton
 id line1
 id line3
 id linear
+id linearLayout01
+id linearLayout02
+id linearLayout03
+id linearLayout04
+id linearLayout05
+id linearLayout06
 id listMode
 id list_item
 id loginButton
 id main_frame
 id masked
+id menus
 id message
 id middle
 id mini
@@ -1905,6 +1926,8 @@ id radio
 id ratio
 id rectangles
 id recycler_view_list
+id recyclerview
+id repleButton
 id reverseSawtooth
 id right
 id right_icon
@@ -1934,6 +1957,7 @@ id search_voice_btn
 id secpasswordEditText
 id select_dialog_listview
 id selected
+id setting_like_button
 id shortcut
 id showCustom
 id showHome
@@ -1941,6 +1965,7 @@ id showTitle
 id signUpButton
 id sin
 id since_spinner
+id skip
 id skipCollapsed
 id slide
 id smallLabel
@@ -1949,7 +1974,6 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
-id spinner
 id spline
 id split_action_bar
 id spread
@@ -1968,6 +1992,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id t1
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -1977,6 +2002,7 @@ id tag_screen_reader_focusable
 id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
+id te1
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -2024,18 +2050,18 @@ id unlabeled
 id up
 id useLogo
 id userIdText
-<<<<<<< HEAD
 id view1
-=======
->>>>>>> parent of ef87ba4... .
 id view_offset_helper
 id visible
 id wise_saying
+id wish_saying_text
+id wish_writer
 id withText
 id withinBounds
-id word
 id wrap
 id wrap_content
+id write
+id writer_id
 id year
 id zero_corner_chip
 integer abc_config_activityDefaultDur
@@ -2100,6 +2126,8 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_card_info
 layout activity_main
+layout activity_more
+layout activity_popup_edit
 layout activity_select
 layout activity_sign_up
 layout activity_start
@@ -2125,6 +2153,7 @@ layout frag2
 layout frag2_1
 layout frag3
 layout frag4
+layout frag4_1
 layout list_item
 layout list_single_card
 layout mtrl_alert_dialog
@@ -2181,6 +2210,7 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu menu
 mipmap add_icon
+mipmap bol
 mipmap btn01
 mipmap btn02
 mipmap btn03
@@ -2189,6 +2219,7 @@ mipmap btn05
 mipmap click_card_arrow
 mipmap click_card_back
 mipmap find_icon
+mipmap garo
 mipmap home_icon
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -2198,10 +2229,16 @@ mipmap loading
 mipmap loding_ver1
 mipmap logo_ver2
 mipmap m_btn01
+mipmap m_btn01_press
 mipmap m_btn02
+mipmap m_btn02_press
 mipmap m_btn03
+mipmap m_btn03_press
 mipmap m_btn04
+mipmap m_btn04_press
 mipmap m_btn05
+mipmap m_btn05_press
+mipmap or_img
 mipmap press_select01
 mipmap press_select02
 mipmap press_select03
@@ -2216,6 +2253,7 @@ mipmap select03
 mipmap select04
 mipmap select05
 mipmap select06
+mipmap serobar
 mipmap setting_ex_01
 mipmap setting_ex_02
 mipmap setting_ex_03
@@ -2225,6 +2263,7 @@ mipmap wish_saying01
 mipmap wish_saying02
 mipmap wish_saying03
 mipmap wish_saying04
+mipmap zoom
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description
