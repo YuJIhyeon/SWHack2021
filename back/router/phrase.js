@@ -2,8 +2,6 @@ import express from 'express'
 import verifyToken from '../middleware/verifyToken.js'
 import db from '../config/db.js'
 import getPhrase from '../func/getPhrase.js'
-import { verify } from 'jsonwebtoken'
-
 const router = express.Router()
 
 //명언 작성
