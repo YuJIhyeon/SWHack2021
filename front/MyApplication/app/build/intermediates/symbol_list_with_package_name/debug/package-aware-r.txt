@@ -1588,6 +1588,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable selector_editbox
 drawable selector_like_button
 drawable selector_write_button01
 drawable selector_write_button02
@@ -2004,7 +2005,6 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
-id textlayout
 id time
 id title
 id titleDividerNoCustom
@@ -2027,7 +2027,6 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id userIdText
 id view_offset_helper
 id visible
 id wise_saying
