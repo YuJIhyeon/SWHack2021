@@ -39,9 +39,22 @@ public class StartActivity extends AppCompatActivity {
                 input_pw = editText_pw.getText().toString();
 
                 //sendRequest_login();
-
-                finish();
-                startActivity(new Intent(StartActivity.this, SelectActivity.class));
+                try {
+                    JSONObject result = RESTConnecter.login(input_id, input_pw);
+                    if (result.getString("message").equals("success")) {
+                        SharedPreferences sharedPreferences = getSharedPreferences("token", MODE_PRIVATE);
+                        SharedPreferences.Editor editor = sharedPreferences.edit();
+                        editor.putString("jwt", result.getString("message"));
+                        editor.commit();
+                        finish();
+                        startActivity(new Intent(StartActivity.this, SelectActivity.class));
+                    } else {
+                        //login fail
+                        Toast.makeText(getApplicationContext(), "login fail", Toast.LENGTH_SHORT).show();
+                    }
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
             }
         });
 
