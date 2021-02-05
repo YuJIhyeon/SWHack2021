@@ -2,6 +2,7 @@ import express from 'express'
 import verifyToken from '../middleware/verifyToken.js'
 import db from '../config/db.js'
 import getPhrase from '../func/getPhrase.js'
+import { verify } from 'jsonwebtoken'
 
 const router = express.Router()
 
@@ -75,7 +76,7 @@ router.get('/search', async (req, res) => {
 
 });
 
-router.post('/:id/like', async (req, res) => {
+router.post('/:id/like', verifyToken, async (req, res) => {
   const userID = res.locals.jwtPayload.id;
   const phraseID = req.params.id;
   try {
