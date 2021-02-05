@@ -91,7 +91,7 @@ router.get('/:id/comment', async (req, res) => {
   try {
     const data = await db.query('SELECT * FROM comment WHERE phraseID = ?', [phraseID]);
     for(let i = 0;i < data.length; ++i) {
-      data[i].like = (await db.query('SELECT count(*) as like FROM comment_like WHERE commentID = ?', [data[i].id]))[0]['like'];
+      data[i].like = (await db.query('SELECT count(*) as `like` FROM comment_like WHERE commentID = ?', [data[i].id]))[0]['like'];
     }
     data.sort((a, b) => {
       return b.like - a.like;
