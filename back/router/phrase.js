@@ -4,7 +4,8 @@ const router = express.Router()
 
 //명언 작성
 router.post('/',  async (req, res) => {
-    const {phrase, categoryName, writerId, referenceName} = req.body;
+    const writerId = res.locals.jwtPayload.id;
+    const {phrase, categoryName, referenceName} = req.body;
     try {
       const exist = await db.query('SELECT EXISTS(SELECT * FROM phrase WHERE phrase = ?) as isExist', [phrase]);
       if(exist[0]['isExist']) {
@@ -13,7 +14,15 @@ router.post('/',  async (req, res) => {
         });
         return;
       }
-      await db.query('INSERT INTO phrase(phrase, categoryName, writerId, referenceName) VALUE(?, ?, ?, ?, ?)', [phrase, categoryName, writerId, referenceName]);
+      const data = await db.query('INSERT INTO phrase(phrase, categoryName, writerId, referenceName) VALUE(?, ?, ?, ?)', [phrase, categoryName, writerId, referenceName]);
+      console.log(data);
+      if(categoryName === 'great') {
+        await db.query('INSERT INTO great(?')
+      } else if(categoryName === 'media') {
+
+      } else if(categoryName === 'proverb') {
+
+      }
       res.status(200).json({
         message: 'success'
       });
