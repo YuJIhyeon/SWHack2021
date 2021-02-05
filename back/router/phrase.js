@@ -122,8 +122,8 @@ router.post('/:id/comment', verifyToken, async (req, res) => {
 //명언 댓글 삭제
 router.delete('/:id/comment/:comment_id', verifyToken, async (req, res) => {
   const userID = res.locals.jwtPayload.id;
-  const phraseID = req.params.id;
-  const commentID = req.params.comment_id;
+  const phraseID = parseInt(req.params.id);
+  const commentID = parseInt(req.params.comment_id);
   try {
     const check = await db.query('SELECT * FROM comment WHERE id = ?', [commentID]);
     if(check[0].userID !== userID) {
