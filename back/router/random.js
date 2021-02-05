@@ -1,4 +1,5 @@
 import express from 'express';
+import db from '../config/db.js';
 
 const router = express.Router();
 
@@ -8,10 +9,10 @@ router.get('/', async (req, res) => {
   let query = 'SELECT * FROM phrase';
   let param = []
   if(req.params.category !== undefined) {
-    query += 'WHERE referenceName = ?'
+    query += ' WHERE referenceName = ?'
     param.push(req.params.category);
   }
-  query += 'ORDER BY RAND() LIMIT ?'
+  query += ' ORDER BY RAND() LIMIT ?'
   param.push(limit);
   if(req.params.limit !== undefined) {
     limit = parseInt(req.params.limit);
