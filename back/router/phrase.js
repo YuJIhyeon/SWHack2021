@@ -49,7 +49,7 @@ router.get('/search', async (req, res) => {
       limit = parseInt(req.query.limit);
     }
     if(category === '글귀') {
-      const data = await db.query('SELECT * FROM phrase WHERE phrase LIKE "%?%" LIMIT ?', query, limit);
+      const data = await db.query('SELECT * FROM phrase WHERE phrase LIKE "%' + query + '%" LIMIT ?', limit);
       res.status(200).json(data);
     } else if (category === '태그') {
       const data = await db.query('SELECT * FROM phrase WHERE description LIKE "%?%" LIMIT ?', query, limit);
