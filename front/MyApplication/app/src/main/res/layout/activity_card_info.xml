@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E1E1E1"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:background="@mipmap/click_card_back">
+        <ImageButton
+            android:layout_width="15dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:background="@mipmap/click_card_arrow"/>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1분 1초 마다 인생을 바꿀 수 있는"
+                android:textSize="20sp"
+                android:textColor="#FFFFFF"
+                style="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:text="기회가 온다"
+                android:textSize="20sp"
+                style="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:text="영화 _ 바닐라스카이"
+                android:textSize="13sp"
+                style="bold"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:padding="20dp"
+       android:orientation="vertical"
+       android:background="#FFFFFF">
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal">
+           <ImageButton
+               android:id="@+id/likeButton"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginRight="10dp"
+               android:background="@mipmap/like"/>
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="1264"
+               android:textSize="18sp"
+               android:layout_alignLeft="@+id/likeButton"/>
+       </LinearLayout>
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="jukiou98님의 생각을 글로 남겨보세요."
+               android:textSize="17sp"
+               android:layout_alignParentLeft="true"
+               android:layout_centerVertical="true"/>
+           <ImageButton
+               android:layout_width="30dp"
+               android:layout_height="30dp"
+               android:background="@mipmap/repple"
+               android:layout_alignParentRight="true"/>
+       </RelativeLayout>
+
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_marginTop="15dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="베스트 코멘트"
+            android:textSize="22sp"
+            style="bold"
+            android:paddingTop="15dp"
+            android:paddingLeft="15dp"
+            android:paddingBottom="15dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:layout_marginTop="1dp"
+        android:paddingTop="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@mipmap/profile"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingLeft="15dp"
+                android:text="Dnwnsrbl1"
+                android:textSize="20sp"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="명언 명언 명언 띵언"
+            android:textSize="18sp"
+            android:paddingTop="10dp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                android:orientation="horizontal"
+                android:layout_alignParentRight="true" >
+                <ImageButton
+                    android:id="@+id/likeButton_repple"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="10dp"
+                    android:background="@mipmap/like"/>
+                <TextView
+                    android:id="@+id/count_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1264"
+                    android:textSize="18sp"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="모두 보기"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:backgroundTint="#E1E1E1"
+        android:textColor="#606060"/>
+</LinearLayout>
