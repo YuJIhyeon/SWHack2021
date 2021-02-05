@@ -38,8 +38,54 @@ router.post('/', verifyToken, async (req, res) => {
 //명언 불러오기
 router.get('/:id');
 
-//명언 검색
-router.get('/search');
+
+//명언 이름검색
+router.get('/search_name', async (req, res) => {
+  try {
+    
+    let name = req.query.name;
+    const exist = await db.query('SELECT EXISTS(SELECT * FROM great WHERE name = ?) as isExist', name);
+
+    if(exist[0]['isExist']) {
+      let phraseInfo = await db.query('SELECT g.name, p.phrase, p.referenceName FROM great g, phrase p WHERE g.phraseId == p.Id');
+      response.json(phraseInfo);
+      return;
+    }
+    else {
+      res.status(409).json({
+        message: 'Does not exist phrase'
+      });
+    }   
+
+  } catch (error) {
+    res.status(500).json(error);
+  }
+
+});
+
+//명언 구문검색
+router.get('/search_phrase', async (req, res) => {
+  try {
+    
+    let phrase = req.query.phrase;
+    const exist = await db.query('SELECT EXISTS(SELECT * FROM phrase WHERE phrase = ?) as isExist', phrase);
+
+    if(exist[0]['isExist']) {
+      let phraseInfo = await db.query('SELECT g.name, p.phrase, p.referenceName,  FROM great g, phrase p WHERE g.phraseId == p.Id');
+      response.json(phraseInfo);
+      return;
+    }
+    else {
+      res.status(409).json({
+        message: 'Does not exist phrase'
+      });
+    }   
+
+  } catch (error) {
+    res.status(500).json(error);
+  }
+
+});
 
 //공명의 주머니
 router.get('/random');
