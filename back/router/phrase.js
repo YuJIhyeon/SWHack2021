@@ -1,7 +1,6 @@
 import express from 'express'
 import verifyToken from '../middleware/verifyToken.js'
 import db from '../config/db.js'
-import getPhrase from '../func/getPhrase.js'
 const router = express.Router()
 
 //명언 작성
@@ -44,27 +43,10 @@ router.get('/:id', async (req, res) => {
 router.get('/search', async (req, res) => {
   try {
     
-    const searchContents = req.query;
-
-    const NameExist = await db.query('SELECT EXISTS(SELECT * FROM great WHERE name = ?) as isNameExist', searchContents);
-    const PhraseExist = await db.query('SELECT EXISTS(SELECT * FROM phrase WHERE phrase = ?) as isPhraseExist', searchContents);
-
-
-    if(NameExist['isNameExist'] || PhraseExist['isPhraseExist']) {
-      let phraseInfo = await db.query('SELECT g.name, p.phrase, p.referenceName FROM great g, phrase p WHERE g.phraseId == p.Id');
-      response.json(phraseInfo);
-      return;
-    }
-    else {
-      res.status(409).json({
-        message: 'Does not exist phrase'
-      });
-    }   
-
   } catch (error) {
     res.status(500).json(error);
+    console.log(error);
   }
-
 });
 
 //유저 좋아요 추가
@@ -99,7 +81,9 @@ router.delete('/:id/like', verifyToken, async (req, res) => {
 
 
 //공명의 주머니
-router.get('/random');
+router.get('/random', async (req, res) => {
+  
+});
 
 //명언 댓글 가져오기
 router.get('/:id/comment', async (req, res) => {
