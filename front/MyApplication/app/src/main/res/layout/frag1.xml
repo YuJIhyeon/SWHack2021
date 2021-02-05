@@ -10,8 +10,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="5dp"
         android:text="오늘의 가라사대"
-        android:textSize="22sp"
-        android:textStyle="bold"
+        android:textSize="32sp"
         android:textColor="#606060"/>
     <ImageView
         android:layout_width="match_parent"

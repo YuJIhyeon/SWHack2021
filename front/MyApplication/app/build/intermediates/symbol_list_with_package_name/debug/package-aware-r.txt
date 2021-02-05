@@ -1590,7 +1590,16 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+<<<<<<< HEAD
 drawable result
+=======
+drawable selector_like_button
+drawable selector_write_button01
+drawable selector_write_button02
+drawable selector_write_button03
+drawable selector_write_button04
+drawable selector_write_button05
+>>>>>>> parent of ef87ba4... .
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -2015,7 +2024,10 @@ id unlabeled
 id up
 id useLogo
 id userIdText
+<<<<<<< HEAD
 id view1
+=======
+>>>>>>> parent of ef87ba4... .
 id view_offset_helper
 id visible
 id wise_saying

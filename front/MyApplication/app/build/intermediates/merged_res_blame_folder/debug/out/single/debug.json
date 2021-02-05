@@ -76,6 +76,7 @@
         "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_m_btn03.png.flat",
         "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\m_btn03.png"
     },
@@ -86,6 +87,18 @@
     {
         "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
         "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_keyboard_arrow_left_24.png"
+=======
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_write_button02.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_write_button02.xml"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_keyboard_arrow_left_24.png"
+>>>>>>> parent of ef87ba4... .
     },
     {
         "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_frag2.xml.flat",
@@ -236,12 +249,17 @@
         "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\src\\main\\res\\mipmap-hdpi\\btn03.png"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_settings_24.xml.flat",
         "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_settings_24.xml"
     },
     {
         "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_24.png.flat",
         "source": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_24.png"
+=======
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+>>>>>>> parent of ef87ba4... .
     },
     {
         "merged": "C:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_zoom_in_24.png.flat",

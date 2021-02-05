@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Sat Feb 06 03:08:41 KST 2021
 base.0=C\:\\Users\\H\\Desktop\\gitPGP\\SWHack2021\\front\\MyApplication\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+=======
+#Sat Feb 06 04:11:14 KST 2021
+base.0=/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+>>>>>>> parent of ef87ba4... .
 path.0=classes.dex
 renamed.0=classes.dex
