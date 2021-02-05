@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#FFFFFF"
-        android:paddingTop="5dp"
+        android:paddingTop="33dp"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:paddingBottom="10dp">
@@ -22,6 +22,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/ic_baseline_keyboard_arrow_left_24"
             android:text=""
+            android:layout_centerVertical="true"
             app:backgroundTint="@color/black" />
 
         <LinearLayout
@@ -38,7 +39,7 @@
                 android:layout_marginLeft="4dp"
                 android:layout_marginRight="3dp"
                 android:text="가라사대"
-                android:textSize="27sp"
+                android:textSize="23sp"
                 android:textColor="#0F84F7"/>
 
             <TextView
@@ -47,7 +48,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="3dp"
                 android:text="작성창"
-                android:textSize="27sp" />
+                android:textSize="23sp" />
         </LinearLayout>
 
         <Button
@@ -56,13 +57,14 @@
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
             android:text=""
+            android:layout_centerVertical="true"
             android:background="@drawable/ic_baseline_keyboard_arrow_right_24"/>
     </RelativeLayout>
 
     <RelativeLayout
         android:id="@+id/background"
         android:layout_width="match_parent"
-        android:layout_height="230dp"
+        android:layout_height="260dp"
         android:layout_marginTop="1dp"
         android:background="#FFFFFF">
 

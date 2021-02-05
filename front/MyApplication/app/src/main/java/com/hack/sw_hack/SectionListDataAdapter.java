@@ -65,6 +65,7 @@ class SectionListDataAdapter extends RecyclerView.Adapter<SectionListDataAdapter
                 @Override
                 public void onClick(View v) {
 
+
                     Toast.makeText(v.getContext(), word.getText(), Toast.LENGTH_SHORT).show();
 
                 }

@@ -76,14 +76,16 @@
                 android:orientation="horizontal">
                 <ImageButton
                     android:id="@+id/likebutton"
-                    android:layout_width="40dp"
-                    android:layout_height="40dp"
-                    android:src="@drawable/selector_like_button"/>
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/selector_like_button"
+                    android:background="@android:color/transparent"/>
                 <ImageButton
                     android:id="@+id/repleButton"
-                    android:layout_width="40dp"
-                    android:layout_height="40dp"
-                    android:src="@mipmap/bol"/>
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/bol"
+                    />
             </LinearLayout>
 
             <TextView
@@ -94,7 +96,8 @@
                 android:text="글쓴이 아이디"
                 android:textSize="15sp"
                 android:layout_alignParentRight="true"
-                android:layout_alignParentBottom="true"/>
+                android:layout_alignParentBottom="true"
+                />
         </RelativeLayout>
     </FrameLayout>
 

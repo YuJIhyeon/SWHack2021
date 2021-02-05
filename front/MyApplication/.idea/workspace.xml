@@ -28,6 +28,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afedaa3a-6c4a-4105-94d1-a4751162d646" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/CardvAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/CardvModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/ViewHolderCardv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
@@ -46,49 +49,94 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag1$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag1$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag1$5.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/Frag4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/MainActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/RecyclerViewDataAdapter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/RecyclerViewDataAdapter$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/RecyclerViewDataAdapter$ItemRowHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/RecyclerViewDataAdapter$ItemRowHolder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/RecyclerViewDataAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/RecyclerViewDataAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SectionListDataAdapter$SingleItemRowHolder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SectionListDataAdapter$SingleItemRowHolder$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SectionListDataAdapter$SingleItemRowHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SectionListDataAdapter$SingleItemRowHolder.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SectionListDataAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SectionListDataAdapter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SelectActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SelectActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SignUpActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/SignUpActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity$6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/hack/sw_hack/StartActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag1$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag1$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag1$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag1$4.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag1$5.dex" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag1.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag2.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag2_1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag2_1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag3.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/Frag4.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/MainActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/RecyclerViewDataAdapter$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/RecyclerViewDataAdapter$1.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/RecyclerViewDataAdapter$ItemRowHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/RecyclerViewDataAdapter$ItemRowHolder.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/RecyclerViewDataAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/RecyclerViewDataAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SectionListDataAdapter$SingleItemRowHolder$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SectionListDataAdapter$SingleItemRowHolder$1.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SectionListDataAdapter$SingleItemRowHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SectionListDataAdapter$SingleItemRowHolder.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SectionListDataAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SectionListDataAdapter.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SelectActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SelectActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SignUpActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/SignUpActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$5.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$5.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$6.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity$6.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/hack/sw_hack/StartActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_card_info.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_card_info.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_start.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_start.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_frag1.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_frag1.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_frag2.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_frag2.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_frag3.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_frag3.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_list_single_card.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_list_single_card.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/RecyclerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/RecyclerAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/SelectActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/SelectActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/CardInfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/CardInfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/CardModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/CustumAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/Frag1.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/Frag1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/MoreActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/MoreActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/RecyclerAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/RecyclerViewDataAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/RecyclerViewDataAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/SectionListDataAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/SectionListDataAdapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/StartActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hack/sw_hack/StartActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_select.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_card_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_card_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_start.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_start.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/cardv.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/cardv.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/frag4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frag4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_single_card.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_single_card.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,8 +184,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.-1412611500">
@@ -246,60 +298,85 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="594" y="199" key="#Inspections" timestamp="1612512432107">
-      <screen x="0" y="25" width="1920" height="984" />
+    <state x="594" y="212" key="#Inspections" timestamp="1612546343142">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
+    <state x="594" y="212" key="#Inspections/1920.25.1440.821/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612546343142" />
     <state x="594" y="199" key="#Inspections/1920.25.1440.875/0.25.1920.984/3360.25.1288.921@0.25.1920.984" timestamp="1612512432107" />
-    <state x="773" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1612534857870">
-      <screen x="0" y="25" width="1920" height="985" />
+    <state x="788" y="373" key="#PSD" timestamp="1612542212944">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
+    <state x="788" y="373" key="#PSD/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612542212944" />
+    <state x="773" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1612537820571">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="773" y="241" key="#com.intellij.ide.util.MemberChooser/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612537820571" />
     <state x="773" y="227" key="#com.intellij.ide.util.MemberChooser/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612534857870" />
     <state x="773" y="227" key="#com.intellij.ide.util.MemberChooser/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612521896692" />
-    <state x="698" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612526665774">
-      <screen x="0" y="25" width="1920" height="987" />
+    <state x="698" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612537334569">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="698" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.168.1440.875/0.25.1920.982@0.25.1920.982" timestamp="1612430911520" />
+    <state x="698" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612537334569" />
     <state x="698" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612526665774" />
     <state x="698" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1612534478913">
       <screen x="0" y="25" width="1920" height="985" />
     </state>
     <state x="698" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612534478913" />
+    <state x="1031" y="352" width="1114" height="641" key="AVDManager" timestamp="1612547932376">
+      <screen x="0" y="25" width="1920" height="987" />
+    </state>
+    <state x="706" y="295" width="1114" height="685" key="AVDManager/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612542598412" />
+    <state x="1031" y="352" width="1114" height="641" key="AVDManager/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612547932376" />
     <state x="548" y="276" key="AndroidCreateResourceFileDialog" timestamp="1612530520380">
       <screen x="0" y="25" width="1920" height="985" />
     </state>
     <state x="548" y="276" key="AndroidCreateResourceFileDialog/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612530520380" />
-    <state x="782" y="299" key="AndroidCreateXmlResourceDialog" timestamp="1612517100923">
-      <screen x="0" y="25" width="1920" height="985" />
+    <state x="782" y="318" key="AndroidCreateXmlResourceDialog" timestamp="1612546370091">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
+    <state x="782" y="318" key="AndroidCreateXmlResourceDialog/1920.25.1440.821/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612546370091" />
     <state x="782" y="299" key="AndroidCreateXmlResourceDialog/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612517100923" />
-    <state width="1876" height="261" key="GridCell.Tab.0.bottom" timestamp="1612531111550">
-      <screen x="0" y="25" width="1920" height="985" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1612552277119">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1876" height="263" key="GridCell.Tab.0.bottom/1920.168.1440.875/0.25.1920.981@0.25.1920.981" timestamp="1612435771674" />
+    <state width="1353" height="323" key="GridCell.Tab.0.bottom/1920.25.1440.821/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612547390113" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/1920.25.1440.822/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612552277119" />
+    <state width="1876" height="351" key="GridCell.Tab.0.bottom/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612544448070" />
     <state width="1876" height="262" key="GridCell.Tab.0.bottom/1920.25.1440.875/0.25.1920.984/3360.25.1288.921@0.25.1920.984" timestamp="1612529406410" />
     <state width="1876" height="261" key="GridCell.Tab.0.bottom/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612531111550" />
-    <state width="1876" height="263" key="GridCell.Tab.0.bottom/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612527691154" />
-    <state width="1876" height="261" key="GridCell.Tab.0.center" timestamp="1612531111549">
-      <screen x="0" y="25" width="1920" height="985" />
+    <state width="1353" height="323" key="GridCell.Tab.0.bottom/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612547540661" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1612552277119">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1876" height="263" key="GridCell.Tab.0.center/1920.168.1440.875/0.25.1920.981@0.25.1920.981" timestamp="1612435771673" />
+    <state width="1353" height="323" key="GridCell.Tab.0.center/1920.25.1440.821/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612547390112" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center/1920.25.1440.822/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612552277119" />
+    <state width="1876" height="351" key="GridCell.Tab.0.center/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612544448070" />
     <state width="1876" height="262" key="GridCell.Tab.0.center/1920.25.1440.875/0.25.1920.984/3360.25.1288.921@0.25.1920.984" timestamp="1612529406410" />
     <state width="1876" height="261" key="GridCell.Tab.0.center/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612531111549" />
-    <state width="1876" height="263" key="GridCell.Tab.0.center/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612527691154" />
-    <state width="1876" height="261" key="GridCell.Tab.0.left" timestamp="1612531111549">
-      <screen x="0" y="25" width="1920" height="985" />
+    <state width="1353" height="323" key="GridCell.Tab.0.center/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612547540660" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1612552277118">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1876" height="263" key="GridCell.Tab.0.left/1920.168.1440.875/0.25.1920.981@0.25.1920.981" timestamp="1612435771673" />
+    <state width="1353" height="323" key="GridCell.Tab.0.left/1920.25.1440.821/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612547390112" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left/1920.25.1440.822/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612552277118" />
+    <state width="1876" height="351" key="GridCell.Tab.0.left/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612544448069" />
     <state width="1876" height="262" key="GridCell.Tab.0.left/1920.25.1440.875/0.25.1920.984/3360.25.1288.921@0.25.1920.984" timestamp="1612529406409" />
     <state width="1876" height="261" key="GridCell.Tab.0.left/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612531111549" />
-    <state width="1876" height="263" key="GridCell.Tab.0.left/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612527691153" />
-    <state width="1876" height="261" key="GridCell.Tab.0.right" timestamp="1612531111550">
-      <screen x="0" y="25" width="1920" height="985" />
+    <state width="1353" height="323" key="GridCell.Tab.0.left/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612547540660" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1612552277119">
+      <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state width="1876" height="263" key="GridCell.Tab.0.right/1920.168.1440.875/0.25.1920.981@0.25.1920.981" timestamp="1612435771674" />
+    <state width="1353" height="323" key="GridCell.Tab.0.right/1920.25.1440.821/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612547390113" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right/1920.25.1440.822/0.25.1920.1055/3360.25.1288.921@0.25.1920.1055" timestamp="1612552277119" />
+    <state width="1876" height="351" key="GridCell.Tab.0.right/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612544448070" />
     <state width="1876" height="262" key="GridCell.Tab.0.right/1920.25.1440.875/0.25.1920.984/3360.25.1288.921@0.25.1920.984" timestamp="1612529406410" />
     <state width="1876" height="261" key="GridCell.Tab.0.right/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612531111550" />
-    <state width="1876" height="263" key="GridCell.Tab.0.right/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612527691154" />
+    <state width="1353" height="323" key="GridCell.Tab.0.right/1920.25.1440.875/0.25.1920.987/3360.25.1288.921@0.25.1920.987" timestamp="1612547540661" />
     <state x="740" y="297" key="chooseDestDirectoryDialog" timestamp="1612435681533">
       <screen x="0" y="25" width="1920" height="982" />
     </state>
@@ -313,6 +390,10 @@
       <screen x="0" y="25" width="1920" height="985" />
     </state>
     <state x="651" y="81" width="615" height="873" key="find.popup/1920.25.1440.875/0.25.1920.985/3360.25.1288.921@0.25.1920.985" timestamp="1612533447703" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1612541863458">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/1920.25.1440.875/0.25.1920.1055/3360.25.1288.870@0.25.1920.1055" timestamp="1612541863458" />
     <state x="625" y="242" width="670" height="679" key="search.everywhere.popup" timestamp="1612533442355">
       <screen x="0" y="25" width="1920" height="985" />
     </state>

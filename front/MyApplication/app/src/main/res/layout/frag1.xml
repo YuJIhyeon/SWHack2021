@@ -3,61 +3,21 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="10dp"
     android:orientation="vertical">
-    <LinearLayout
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center"
-        android:layout_marginBottom="10dp"
-        android:orientation="horizontal">
-        <ImageButton
-            android:id="@+id/btn01"
-            android:layout_width="70dp"
-            android:layout_height="40dp"
-            android:background="@mipmap/btn01"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="22dp"
-            android:text="  |  "/>
-        <ImageButton
-            android:id="@+id/btn02"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:background="@mipmap/btn02"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="22dp"
-            android:text="  |  "/>
-        <ImageButton
-            android:id="@+id/btn03"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:background="@mipmap/btn03"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="22dp"
-            android:text="  |  "/>
-        <ImageButton
-            android:id="@+id/btn04"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:background="@mipmap/btn05"/>
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="22dp"
-            android:text="  |  "/>
-        <ImageButton
-            android:id="@+id/btn05"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:background="@mipmap/btn05"/>
-
-    </LinearLayout>
-
+        android:layout_marginLeft="5dp"
+        android:text="오늘의 가라사대"
+        android:textSize="32sp"
+        android:textColor="#606060"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/setting_ex_03"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"/>
 
     <LinearLayout
         android:layout_width="match_parent"

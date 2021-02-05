@@ -1692,11 +1692,6 @@ id blocking
 id bottom
 id bottomNavi
 id bounce
-id btn01
-id btn02
-id btn03
-id btn04
-id btn05
 id btnMore
 id button1
 id button2
@@ -1949,6 +1944,7 @@ id showHome
 id showTitle
 id signUpButton
 id sin
+id skip
 id skipCollapsed
 id slide
 id smallLabel
@@ -1957,6 +1953,7 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spinner
 id spline
 id split_action_bar
 id spread
@@ -2199,6 +2196,7 @@ mipmap btn05
 mipmap click_card_arrow
 mipmap click_card_back
 mipmap find_icon
+mipmap garo
 mipmap home_icon
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -2217,6 +2215,7 @@ mipmap m_btn04
 mipmap m_btn04_press
 mipmap m_btn05
 mipmap m_btn05_press
+mipmap or_img
 mipmap press_select01
 mipmap press_select02
 mipmap press_select03
@@ -2241,6 +2240,7 @@ mipmap wish_saying01
 mipmap wish_saying02
 mipmap wish_saying03
 mipmap wish_saying04
+mipmap zoom
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description
 string abc_action_bar_up_description

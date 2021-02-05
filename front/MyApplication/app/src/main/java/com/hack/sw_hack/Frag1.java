@@ -1,9 +1,12 @@
 package com.hack.sw_hack;
 
+import android.app.Person;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import android.widget.TextView;
@@ -54,12 +57,13 @@ public class Frag1 extends Fragment{
     ArrayList<SectionDataModel> allSampleData;
     ImageButton btn01,btn02, btn03, btn04, btn05;
     ImageButton likeButton;
+    private AdapterView.OnItemClickListener mListener = null;
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         view = inflater.inflate(R.layout.frag1, container, false);
-
+/*
         btn01 = (ImageButton) view.findViewById(R.id.btn01);
         btn02 = (ImageButton) view.findViewById(R.id.btn02);
         btn03 = (ImageButton) view.findViewById(R.id.btn03);
@@ -95,7 +99,7 @@ public class Frag1 extends Fragment{
             public void onClick(View v) {
 
             }
-        });
+        });*/
 
         view = inflater.inflate(R.layout.frag1, container, false);
 
@@ -113,10 +117,12 @@ public class Frag1 extends Fragment{
 
         my_recycler_view.setAdapter(adapter);
 
-
         return view;
     }
-
+    public void setOnItemClickListener(AdapterView.OnItemClickListener listener)
+    {
+        this.mListener = listener;
+    }
     public void createDummyData() {
         String[] t = {"영화 속 가라사대", "위인들의 가라사대", "만화속의 가라사대"};
         for (int i = 0; i <= 2; i++) {
