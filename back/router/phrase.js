@@ -1,9 +1,10 @@
 import express from 'express'
+import verifyToken from '../middleware/verifyToken';
 
 const router = express.Router()
 
 //명언 작성
-router.post('/',  async (req, res) => {
+router.post('/', verifyToken, async (req, res) => {
     const writerId = res.locals.jwtPayload.id;
     const {phrase, categoryName, referenceName} = req.body;
     try {
