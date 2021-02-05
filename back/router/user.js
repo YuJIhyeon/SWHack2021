@@ -10,3 +10,5 @@ router.get('/phrase');
 
 //내가 스크랩한 문구
 router.get('/scrap');
+
+export default router;

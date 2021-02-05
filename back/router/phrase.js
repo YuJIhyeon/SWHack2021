@@ -50,3 +50,5 @@ router.post('/:id/comment');
 
 //명언 댓글 삭제
 router.delete('/:id/comment/:comment_id');
+
+export default router;
