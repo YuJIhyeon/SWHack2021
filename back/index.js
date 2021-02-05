@@ -2,7 +2,7 @@ import express from 'express'
 import auth from './router/auth.js'
 import phrase from './router/phrase.js'
 import user from './router/user.js'
-import search from './router/serach.js'
+import search from './router/search.js'
 const app = express()
 
 app.use(express.json());
