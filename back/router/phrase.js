@@ -75,7 +75,19 @@ router.get('/search', async (req, res) => {
 
 });
 
-
+router.post('/:id/like', async (req, res) => {
+  const userID = res.locals.jwtPayload.id;
+  const phraseID = req.params.id;
+  try {
+    await db.query('INSERT INTO liked(userID, phraseID) VALUE(?, ?)', [userID, phraseID]);
+    res.status(200).json({
+      message: 'success'
+    })
+  } catch(error) {
+    console.log(error);
+    res.status(500).json(error);
+  }
+})
 
 
 //공명의 주머니
