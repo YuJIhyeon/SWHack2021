@@ -21,15 +21,14 @@ com/hack/sw_hack/RecyclerViewDataAdapter.java
  com.hack.sw_hack.RecyclerViewDataAdapter$ItemRowHolder
 com/hack/sw_hack/CardvModel.java
  com.hack.sw_hack.CardvModel
-com/hack/sw_hack/Frag3.java
- com.hack.sw_hack.Frag3
+com/hack/sw_hack/BuildConfig.java
+ com.hack.sw_hack.BuildConfig
 com/hack/sw_hack/MoreActivity.java
  com.hack.sw_hack.MoreActivity
 com/hack/sw_hack/ViewHolderCardv.java
  com.hack.sw_hack.ViewHolderCardv
-com/hack/sw_hack/MainActivity.java
- com.hack.sw_hack.MainActivity
- com.hack.sw_hack.MainActivity$1
+com/hack/sw_hack/AppHelper.java
+ com.hack.sw_hack.AppHelper
 com/hack/sw_hack/frag4_1.java
  com.hack.sw_hack.frag4_1
 com/hack/sw_hack/Frag2.java
@@ -60,7 +59,8 @@ com/hack/sw_hack/SplashActivity.java
  com.hack.sw_hack.SplashActivity$1
 com/hack/sw_hack/popupEditActivity.java
  com.hack.sw_hack.popupEditActivity
-com/hack/sw_hack/BuildConfig.java
- com.hack.sw_hack.BuildConfig
-com/hack/sw_hack/AppHelper.java
- com.hack.sw_hack.AppHelper
+com/hack/sw_hack/MainActivity.java
+ com.hack.sw_hack.MainActivity
+ com.hack.sw_hack.MainActivity$1
+com/hack/sw_hack/Frag3.java
+ com.hack.sw_hack.Frag3

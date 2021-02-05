@@ -63,43 +63,6 @@ public class Frag1 extends Fragment{
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         view = inflater.inflate(R.layout.frag1, container, false);
-/*
-        btn01 = (ImageButton) view.findViewById(R.id.btn01);
-        btn02 = (ImageButton) view.findViewById(R.id.btn02);
-        btn03 = (ImageButton) view.findViewById(R.id.btn03);
-        btn04 = (ImageButton) view.findViewById(R.id.btn04);
-        btn05 = (ImageButton) view.findViewById(R.id.btn05);
-
-        btn01.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
-        btn02.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
-        btn03.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
-        btn04.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });
-        btn05.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-            }
-        });*/
 
         view = inflater.inflate(R.layout.frag1, container, false);
 

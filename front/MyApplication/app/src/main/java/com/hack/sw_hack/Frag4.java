@@ -30,7 +30,7 @@ public class Frag4 extends Fragment {
         gara01.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                
             }
         });
         return view;
