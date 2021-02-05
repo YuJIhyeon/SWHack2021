@@ -5,8 +5,9 @@ com/hack/sw_hack/SingleItemModel.java
 com/hack/sw_hack/Frag4.java
  com.hack.sw_hack.Frag4
  com.hack.sw_hack.Frag4$1
-com/hack/sw_hack/SelectActivity.java
- com.hack.sw_hack.SelectActivity
+com/hack/sw_hack/CustumAdapter.java
+ com.hack.sw_hack.CustumAdapter
+ com.hack.sw_hack.CustumAdapter$ViewHolder
 com/hack/sw_hack/Frag1.java
  com.hack.sw_hack.Frag1
  com.hack.sw_hack.Frag1$1
@@ -20,12 +21,16 @@ com/hack/sw_hack/SectionListDataAdapter.java
  com.hack.sw_hack.SectionListDataAdapter
  com.hack.sw_hack.SectionListDataAdapter$SingleItemRowHolder
  com.hack.sw_hack.SectionListDataAdapter$SingleItemRowHolder$1
+com/hack/sw_hack/CardModel.java
+ com.hack.sw_hack.CardModel
 com/hack/sw_hack/RecyclerViewDataAdapter.java
  com.hack.sw_hack.RecyclerViewDataAdapter
  com.hack.sw_hack.RecyclerViewDataAdapter$1
  com.hack.sw_hack.RecyclerViewDataAdapter$ItemRowHolder
 com/hack/sw_hack/Frag3.java
  com.hack.sw_hack.Frag3
+com/hack/sw_hack/MoreActivity.java
+ com.hack.sw_hack.MoreActivity
 com/hack/sw_hack/MainActivity.java
  com.hack.sw_hack.MainActivity
  com.hack.sw_hack.MainActivity$1
@@ -38,6 +43,23 @@ com/hack/sw_hack/Frag2.java
  com.hack.sw_hack.Frag2$1$2
  com.hack.sw_hack.Frag2$2
  com.hack.sw_hack.Frag2$3
+com/hack/sw_hack/AppHelper.java
+ com.hack.sw_hack.AppHelper
+com/hack/sw_hack/Frag2_1.java
+ com.hack.sw_hack.Frag2_1
+ com.hack.sw_hack.Frag2_1$1
+ com.hack.sw_hack.Frag2_1$2
+com/hack/sw_hack/CardInfoActivity.java
+ com.hack.sw_hack.CardInfoActivity
+com/hack/sw_hack/SplashActivity.java
+ com.hack.sw_hack.SplashActivity
+ com.hack.sw_hack.SplashActivity$1
+com/hack/sw_hack/popupEditActivity.java
+ com.hack.sw_hack.popupEditActivity
+com/hack/sw_hack/BuildConfig.java
+ com.hack.sw_hack.BuildConfig
+com/hack/sw_hack/SelectActivity.java
+ com.hack.sw_hack.SelectActivity
 com/hack/sw_hack/StartActivity.java
  com.hack.sw_hack.StartActivity
  com.hack.sw_hack.StartActivity$1
@@ -46,16 +68,3 @@ com/hack/sw_hack/StartActivity.java
  com.hack.sw_hack.StartActivity$4
  com.hack.sw_hack.StartActivity$5
  com.hack.sw_hack.StartActivity$6
-com/hack/sw_hack/Frag2_1.java
- com.hack.sw_hack.Frag2_1
- com.hack.sw_hack.Frag2_1$1
- com.hack.sw_hack.Frag2_1$2
-com/hack/sw_hack/SplashActivity.java
- com.hack.sw_hack.SplashActivity
- com.hack.sw_hack.SplashActivity$1
-com/hack/sw_hack/popupEditActivity.java
- com.hack.sw_hack.popupEditActivity
-com/hack/sw_hack/BuildConfig.java
- com.hack.sw_hack.BuildConfig
-com/hack/sw_hack/AppHelper.java
- com.hack.sw_hack.AppHelper
