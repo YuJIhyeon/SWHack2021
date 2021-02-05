@@ -18,6 +18,15 @@ router.get('/phrase', verifyToken, async (req, res) => {
 });
 
 //내가 스크랩(좋아요)한 문구
-router.get('/scrap');
+router.get('/scrap', verifyToken, async (req, res) => {
+  try {
+    const userID = res.locals.jwtPayload.id;
+    const data = await db.query('SELECT * FROM phrase JOIN liked ON phrase.id = liked.phraseID WHERE liked.userID = ?', [userID]);
+    res.status(200).json(data);
+  } catch (error) {
+    console.log(error);
+    res.status(500).json(error);
+  }
+});
 
 export default router;
