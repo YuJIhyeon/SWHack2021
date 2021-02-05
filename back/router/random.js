@@ -8,14 +8,14 @@ router.get('/', async (req, res) => {
   let limit = 999;
   let query = 'SELECT * FROM phrase';
   let param = []
-  if(req.params.category !== undefined) {
+  if(req.query.category !== undefined) {
     query += ' WHERE referenceName = ?'
-    param.push(req.params.category);
+    param.push(req.query.category);
   }
   query += ' ORDER BY RAND() LIMIT ?'
   param.push(limit);
-  if(req.params.limit !== undefined) {
-    limit = parseInt(req.params.limit);
+  if(req.query.limit !== undefined) {
+    limit = parseInt(req.query.limit);
   }
   try {
     const data = await db.query(query, param);
