@@ -68,30 +68,6 @@ router.delete('/:id/like', verifyToken, async (req, res) => {
   }
 })
 
-
-//공명의 주머니
-router.get('/random', async (req, res) => {
-  let limit = 999;
-  let query = 'SELECT * FROM phrase';
-  let param = []
-  if(req.params.category !== undefined) {
-    query += 'WHERE referenceName = ?'
-    param.push(req.params.category);
-  }
-  query += 'ORDER BY RAND() LIMIT ?'
-  param.push(limit);
-  if(req.params.limit !== undefined) {
-    limit = parseInt(req.params.limit);
-  }
-  try {
-    const data = await db.query(query, param);
-    res.status(200).json(data);
-  } catch (error) {
-    console.log(error);
-    res.status(500).json(error);
-  }
-});
-
 //명언 댓글 가져오기
 router.get('/:id/comment', async (req, res) => {
   const phraseID = req.params.id;
