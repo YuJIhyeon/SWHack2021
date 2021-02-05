@@ -1,0 +1,33 @@
+module.exports=(function(){
+    return{
+        local:{
+            host:'',
+            port:'',
+            user:'',
+            password:'',
+            database:''
+
+        },
+        real:{
+            host:'',
+            port:'',
+            user:'',
+            password:'',
+            database:''
+        },
+        staging:{
+            host:'',
+            port:'',
+            user:'',
+            password:'',
+            database:''
+        },
+        dev:{
+            host:'ubuntu@ip-172-31-87-177',
+            port:'3306',
+            user:'garasadae',
+            password:'garasadae',
+            database:'garasadae'
+        }
+    }
+})();
