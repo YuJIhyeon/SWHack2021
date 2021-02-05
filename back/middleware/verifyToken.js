@@ -1,5 +1,7 @@
 import jwt from 'jsonwebtoken';
 
+const jwtSecret = 'swhackaton';
+
 export default (req, res, next) => {
   try {
     const token = req.headers.authorization;
@@ -9,10 +11,10 @@ export default (req, res, next) => {
       });
       return;
     }
-    const jwtPayload = jwt.verify(token, config.get('jwtSecret'));
+    const jwtPayload = jwt.verify(token, jwtSecret);
     res.locals.jwtPayload = jwtPayload;
     const { id } = jwtPayload;
-    const newToken = jwt.sign({ id: id }, config.get('jwtSecret'), {
+    const newToken = jwt.sign({ id: id }, jwtSecret, {
       expiresIn: '1d',
     });
     res.setHeader('token', newToken);
