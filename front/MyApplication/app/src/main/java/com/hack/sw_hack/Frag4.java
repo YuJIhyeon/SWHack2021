@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -15,7 +16,7 @@ public class Frag4 extends Fragment {
     private View view;
     TextView gara01, gara02, gara03, gara04, gara05, gara06;
 
-
+    LinearLayout linearLayout, linear01;
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
@@ -30,7 +31,7 @@ public class Frag4 extends Fragment {
         gara01.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                
+                linearLayout = (LinearLayout)
             }
         });
         return view;
