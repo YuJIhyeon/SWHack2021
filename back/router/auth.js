@@ -14,7 +14,7 @@ async function pwHash(password) {
 
 //사용자 회원가입
 router.post('/register', async (req, res) => {
-  const {id, password, interest, age, sex} = req.body;
+  const {id, password, age, sex} = req.body;
   try {
     const exist = await db.query('SELECT EXISTS(SELECT * FROM user WHERE ID = ?) as isExist', [id]);
     if(exist[0]['isExist']) {
@@ -24,7 +24,7 @@ router.post('/register', async (req, res) => {
       return;
     }
     const hash = await pwHash(password);
-    await db.query('INSERT INTO user(ID, Password, Interest, age, sex) VALUE(?, ?, ?, ?, ?)', [id, hash, interest, age, sex]);
+    await db.query('INSERT INTO user(ID, Password, age, sex) VALUE(?, ?, ?, ?)', [id, hash, age, sex]);
     res.status(200).json({
       message: 'success'
     });
