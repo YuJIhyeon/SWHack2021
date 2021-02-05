@@ -39,7 +39,7 @@ router.post('/', verifyToken, async (req, res) => {
 //명언 불러오기
 router.get('/:id', async (req, res) => {
   try {
-    res.status(200).json(getPhrase(req.params.id));
+    res.status(200).json(await getPhrase(req.params.id));
   } catch(error) {
     console.log(error);
     res.status(500).json(error);

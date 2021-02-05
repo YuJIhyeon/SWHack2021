@@ -1,6 +1,6 @@
 import db from '../config/db.js'
 
-export default (id) => {
+export default async (id) => {
   const data = await db.query('SELECT * FROM phrase WHERE id = ?', [id]);
   const attribute = await db.query('SELECT * FROM ? WHERE phraseID = ?', [data[0].referenceName, id]);
   if(categoryName === 'great') {
