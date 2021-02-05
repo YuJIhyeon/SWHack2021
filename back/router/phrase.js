@@ -49,13 +49,13 @@ router.get('/search', async (req, res) => {
       limit = parseInt(req.query.limit);
     }
     if(category === '글귀') {
-      const data = await db.query('SELECT * FROM phrase WHERE phrase LIKE "%' + query + '%" LIMIT ?', limit);
+      const data = await db.query('SELECT * FROM phrase WHERE phrase LIKE "%?%" LIMIT ?', [query, limit]);
       res.status(200).json(data);
     } else if (category === '태그') {
-      const data = await db.query('SELECT * FROM phrase WHERE description LIKE "%?%" LIMIT ?', query, limit);
+      const data = await db.query('SELECT * FROM phrase WHERE description LIKE "%?%" LIMIT ?', [query, limit]);
       res.status(200).json(data);
     } else if (category === '분야') {
-      const data = await db.query('SELECT * FROM phrase WHERE categoryName = ? LIMIT ?', query, limit);
+      const data = await db.query('SELECT * FROM phrase WHERE categoryName = ? LIMIT ?', [query, limit]);
       res.status(200).json(data);
     } else {
       res.status(400).json({
