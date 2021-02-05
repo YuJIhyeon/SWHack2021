@@ -43,6 +43,8 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="5dp"
+                        android:textColorHint="#E1E1E1"
+
                         android:ems="10"
                         android:hint="이메일"
                         android:inputType="textEmailAddress" />
@@ -52,6 +54,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="5dp"
+                        android:textColorHint="#E1E1E1"
                         android:ems="10"
                         android:hint="비밀번호"
                         android:inputType="textPassword" />
@@ -102,20 +105,43 @@
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:layout_marginTop="5dp"
-                android:padding="9dp"
+                android:paddingBottom="14dp"
+                android:paddingTop="14dp"
                 android:textSize="18sp"
                 android:backgroundTint="#0F84F7"
                 android:text="로그인" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/or_img"/>
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
-                android:layout_marginTop="5dp"
-                android:padding="9dp"
+                android:paddingBottom="14dp"
+                android:paddingTop="14dp"
                 android:textSize="18sp"
                 android:backgroundTint="#0F84F7"
                 android:text="Google로 계속" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp">
+                <TextView
+                    android:id="@+id/skip"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SKIP"
+                    android:textColor="#B9B9B9"
+                    android:layout_centerHorizontal="true"
+                    android:textSize="17sp"/>
+
+            </RelativeLayout>
+
+
         </LinearLayout>
 
     </LinearLayout>

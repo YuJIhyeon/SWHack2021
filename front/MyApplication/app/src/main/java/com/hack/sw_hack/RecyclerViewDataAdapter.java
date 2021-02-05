@@ -1,6 +1,11 @@
 package com.hack.sw_hack;
 
 import android.content.Context;
+import android.content.Intent;
+import android.graphics.Color;
+import android.text.Spannable;
+import android.text.SpannableStringBuilder;
+import android.text.style.ForegroundColorSpan;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -37,7 +42,10 @@ public class RecyclerViewDataAdapter extends RecyclerView.Adapter<RecyclerViewDa
 
         ArrayList singleSectionItems = dataList.get(i).getAllItemsInSection();
 
-        itemRowHolder.itemTitle.setText(sectionName);
+        SpannableStringBuilder ssb = new SpannableStringBuilder(sectionName);
+        ssb.setSpan(new ForegroundColorSpan(Color.parseColor("#0F84f7")), 5, 9, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+        itemRowHolder.itemTitle.setText(ssb);
+
 
         SectionListDataAdapter itemListDataAdapter = new SectionListDataAdapter(mContext, singleSectionItems);
 
@@ -49,6 +57,12 @@ public class RecyclerViewDataAdapter extends RecyclerView.Adapter<RecyclerViewDa
         itemRowHolder.btnMore.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                //More 호출 부분
+
+                Intent intent = new Intent(mContext, MoreActivity.class);
+                intent.putExtra("sectionName" , sectionName);
+                mContext.startActivity(intent);
                 Toast.makeText(v.getContext(), "click event on more, "+sectionName , Toast.LENGTH_SHORT).show();
             }
         });
