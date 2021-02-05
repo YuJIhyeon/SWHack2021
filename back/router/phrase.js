@@ -74,11 +74,27 @@ router.get('/search', async (req, res) => {
 
 });
 
+//유저 좋아요 추가
 router.post('/:id/like', verifyToken, async (req, res) => {
   const userID = res.locals.jwtPayload.id;
   const phraseID = req.params.id;
   try {
     await db.query('INSERT INTO liked(userID, phraseID) VALUE(?, ?)', [userID, phraseID]);
+    res.status(200).json({
+      message: 'success'
+    })
+  } catch(error) {
+    console.log(error);
+    res.status(500).json(error);
+  }
+})
+
+//유저 좋아요 삭제
+router.delete('/:id/like', verifyToken, async (req, res) => {
+  const userID = res.locals.jwtPayload.id;
+  const phraseID = req.params.id;
+  try {
+    await db.query('DELETE FROM liked WHERE userID = ? AND phraseID = ?', [userID, phraseID]);
     res.status(200).json({
       message: 'success'
     })
