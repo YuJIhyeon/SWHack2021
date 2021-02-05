@@ -47,7 +47,7 @@ router.get('/search', async (req, res) => {
     const searchContents = req.query;
 
     const NameExist = await db.query('SELECT EXISTS(SELECT * FROM great WHERE name = ?) as isNameExist', searchContents);
-    const PhraseExist = await db.query('SELECT EXISTS(SELECT * FROM phrase WHERE phrase = ?) as isExist', searchContents);
+    const PhraseExist = await db.query('SELECT EXISTS(SELECT * FROM phrase WHERE phrase = ?) as isPhraseExist', searchContents);
 
 
     if(NameExist['isNameExist'] || PhraseExist['isPhraseExist']) {
