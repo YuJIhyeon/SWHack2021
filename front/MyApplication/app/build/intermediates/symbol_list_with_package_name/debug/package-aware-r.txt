@@ -1553,6 +1553,7 @@ drawable ic_baseline_keyboard_arrow_left_24
 drawable ic_baseline_keyboard_arrow_right_24
 drawable ic_baseline_settings_24
 drawable ic_baseline_zoom_in_24
+drawable ic_image
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle

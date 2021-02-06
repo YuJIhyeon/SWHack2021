@@ -20,6 +20,10 @@
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
     },
     {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_image.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_image.png"
+    },
+    {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
@@ -56,12 +60,12 @@
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select05.png"
     },
     {
-        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn02_press.png.flat",
-        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn02_press.png"
-    },
-    {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_na.jpg.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/na.jpg"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_m_btn02_press.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/m_btn02_press.png"
     },
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_unlike.png.flat",
@@ -124,6 +128,10 @@
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/btn03.png"
     },
     {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_image.xml.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_image.xml"
+    },
+    {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_select04.png.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select04.png"
     },
@@ -150,6 +158,10 @@
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_image.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_image.png"
     },
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_settings_24.png.flat",
@@ -314,6 +326,10 @@
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_select02.png.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-mdpi/select02.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_image.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_image.png"
     },
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_add_a_photo_24.png.flat",
@@ -536,6 +552,10 @@
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/layout/cardv.xml"
     },
     {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_image.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_image.png"
+    },
+    {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable_selector_write_button01.xml.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/drawable/selector_write_button01.xml"
     },
@@ -546,6 +566,10 @@
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_click_card_arrow.png.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/res/mipmap-hdpi/click_card_arrow.png"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_image.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_image.png"
     },
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_settings_24.png.flat",
@@ -642,6 +666,10 @@
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_arrow_forward_ios_24.xml.flat",
         "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_image.png.flat",
+        "source": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_image.png"
     },
     {
         "merged": "/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",

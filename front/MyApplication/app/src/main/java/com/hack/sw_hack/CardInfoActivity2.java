@@ -15,7 +15,7 @@ public class CardInfoActivity2 extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_card_info);
+        setContentView(R.layout.activity_card_info2);
 
         backbutton = findViewById(R.id.backButton);
         backbutton.setOnClickListener(new View.OnClickListener() {

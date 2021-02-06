@@ -51,12 +51,14 @@
                 android:id="@+id/wish_saying_text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:visibility="invisible"
                 android:text="명언 문구 자리 입니다."
                 android:textColor="#FFFFFF" />
             <TextView
                 android:id="@+id/wish_writer"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:visibility="invisible"
                 android:text="이름 자리 입니다."
                 android:textColor="#FFFFFF"/>
         </LinearLayout>
@@ -78,12 +80,14 @@
                     android:id="@+id/likebutton"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:visibility="invisible"
                     android:src="@drawable/selector_like_button"
                     android:background="@android:color/transparent"/>
                 <ImageButton
                     android:id="@+id/repleButton"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:visibility="invisible"
                     android:src="@mipmap/bol"
                     />
             </LinearLayout>
@@ -95,6 +99,7 @@
                 android:textColor="#FFFFFF"
                 android:text="글쓴이 아이디"
                 android:textSize="15sp"
+                android:visibility="invisible"
                 android:layout_alignParentRight="true"
                 android:layout_alignParentBottom="true"
                 />
