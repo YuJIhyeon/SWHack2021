@@ -5,24 +5,33 @@ import android.widget.ImageView;
 public class SingleItemModel {
 
     private String wise_saying;
+    private String writer;
     private Integer img;
 
 
     public SingleItemModel() {
     }
 
-    public SingleItemModel(String wise_saying, Integer img) {
+    public SingleItemModel(String wise_saying, String writer,  Integer img) {
         this.wise_saying = wise_saying;
+        this.writer = writer;
         this.img = img;
     }
 
+    public String getWriter() {
+        return writer;
+    }
+
+    public void setWriter(String writer) {
+        this.writer = writer;
+    }
 
     public Integer getImg() {
-        return img;
+        return R.drawable.logo_ver1;
     }
 
     public void setImg(Integer img) {
-        this.img = img;
+        this.img = R.drawable.logo_ver1;
     }
 
     public String getWise_saying() {

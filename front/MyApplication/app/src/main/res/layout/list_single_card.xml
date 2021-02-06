@@ -51,14 +51,14 @@
                 android:id="@+id/wish_saying_text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:visibility="invisible"
+                android:visibility="visible"
                 android:text="명언 문구 자리 입니다."
                 android:textColor="#FFFFFF" />
             <TextView
                 android:id="@+id/wish_writer"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:visibility="invisible"
+                android:visibility="visible"
                 android:text="이름 자리 입니다."
                 android:textColor="#FFFFFF"/>
         </LinearLayout>

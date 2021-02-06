@@ -87,7 +87,7 @@ public class Frag1 extends Fragment{
         this.mListener = listener;
     }
     public void createDummyData() {
-        String[] t = {"영화 속 가라사대", "위인들의 가라사대", "만화속의 가라사대"};
+        String[] t = {"영화 속 가라사대", "위인들의 가라사대", "만화속의 가라사대", "게임의 가라사대", "애니속의 가라사대", "현실의 가라사대"};
         for (int i = 0; i <= 2; i++) {
 
             SectionDataModel dm = new SectionDataModel();
@@ -95,9 +95,9 @@ public class Frag1 extends Fragment{
             dm.setHeaderTitle(t[i]);//가로 리사이클러뷰 제목
 
             ArrayList<SingleItemModel> singleItem = new ArrayList<SingleItemModel>();
-            singleItem.add(new SingleItemModel("", R.mipmap.wish_saying01));   //내부 리사이클러뷰 글, 이미
-            singleItem.add(new SingleItemModel("", R.mipmap.wish_saying02));
-            singleItem.add(new SingleItemModel("", R.mipmap.wish_saying03));
+            singleItem.add(new SingleItemModel("", "", R.mipmap.wish_saying01));   //내부 리사이클러뷰 글, 이미
+            singleItem.add(new SingleItemModel("", "", R.mipmap.wish_saying02));
+            singleItem.add(new SingleItemModel("", "",R.mipmap.wish_saying03));
 
 
             dm.setAllItemsInSection(singleItem);
