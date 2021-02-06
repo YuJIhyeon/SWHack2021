@@ -62,11 +62,14 @@
     </RelativeLayout>
 
     <RelativeLayout
-        android:id="@+id/background"
         android:layout_width="match_parent"
         android:layout_height="260dp"
         android:layout_marginTop="1dp"
         android:background="#FFFFFF">
+        <ImageView
+            android:id="@+id/background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
 
         <RelativeLayout
             android:id="@+id/editTextLayout"

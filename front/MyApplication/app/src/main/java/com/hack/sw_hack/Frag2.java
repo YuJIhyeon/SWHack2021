@@ -6,6 +6,7 @@ import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
+import android.media.Image;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -32,16 +33,18 @@ import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import static android.app.Activity.RESULT_OK;
+
 public class Frag2 extends Fragment {
 
     private View view;
     Button nextButton;
     ImageButton addPhoto;
-    private static final int GALLERY_CODE = 10;
+    private static final int GALLERY_CODE = 200;
     ImageView imageView;
     private String imagePath;
     TextView text1, text2, text3,text4;
-    RelativeLayout back;
+    ImageView back;
 
     @Nullable
     @Override
@@ -52,7 +55,7 @@ public class Frag2 extends Fragment {
         text2 = (TextView) view.findViewById(R.id.text2);
         text3 = (TextView) view.findViewById(R.id.text3);
         text4 = (TextView) view.findViewById(R.id.text4);
-
+        back = (ImageView) view.findViewById(R.id.background);
         RelativeLayout layout = (RelativeLayout) view.findViewById(R.id.editTextLayout);
         layout.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -128,15 +131,17 @@ public class Frag2 extends Fragment {
 
         startActivityForResult(intent, GALLERY_CODE);
     }
+
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
 
-        if(requestCode == GALLERY_CODE){
-            imagePath = getPath(data.getData());
-            //imageView.setImageURI(Uri.fromFile(file));
+        if (requestCode == 200 && resultCode == RESULT_OK && data != null && data.getData() != null) {
 
-            //upload(path);
+            Uri selectedImageUri = data.getData();
+            back.setImageURI(selectedImageUri);
+
         }
+
     }
     public String getPath(Uri uri){
         String[] proj = {MediaStore.Images.Media.DATA};
