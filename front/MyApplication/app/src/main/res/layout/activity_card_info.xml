@@ -13,6 +13,7 @@
         android:background="@mipmap/click_card_back">
 
         <Button
+            android:id="@+id/backButton"
             android:layout_width="40dp"
             android:layout_height="wrap_content"
             android:background="@drawable/ic_baseline_keyboard_arrow_left_24"
@@ -53,9 +54,6 @@
 
     </RelativeLayout>
 
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -208,5 +206,4 @@
             android:paddingBottom="20dp"
             android:text="모두 보기"
             android:textColor="#606060" />
-    </ScrollView>
 </LinearLayout>

@@ -158,26 +158,31 @@
         android:textSize="22sp"
         android:textColor="#606060"
         android:background="#FFFFFF"/>
+
     <LinearLayout
         android:id="@+id/l1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
+        android:background="#FFFFFF"
         android:gravity="center|center_horizontal"
+        android:orientation="horizontal"
         android:paddingTop="13dp"
         android:paddingBottom="20dp"
-        android:background="#FFFFFF">
+        android:visibility="visible">
+
         <TextView
+            android:id="@+id/frag4_left"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="가라사대"
-            android:textSize="20sp"
             android:layout_marginRight="30dp"
-            android:textColor="#0F84F7"/>
+            android:text="가라사대"
+            android:textColor="#0F84F7"
+            android:textSize="20sp" />
+
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@mipmap/serobar"/>
+            android:src="@mipmap/serobar" />
 
         <TextView
             android:id="@+id/setting_like_button"
@@ -185,265 +190,370 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="30dp"
             android:text="좋아요"
+            android:textColor="#E1E1E1"
             android:textSize="20sp" />
 
     </LinearLayout>
-    <ScrollView
+
+    <LinearLayout
+        android:id="@+id/l2"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:gravity="center|center_horizontal"
+        android:orientation="horizontal"
+        android:paddingTop="13dp"
+        android:paddingBottom="20dp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/frag4_left2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:text="가라사대"
+            android:textColor="#E1E1E1"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/serobar" />
+
+        <TextView
+            android:id="@+id/setting_like_button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="좋아요"
+            android:textColor="#0F84F7"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView_gara"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center_horizontal|center"
             android:orientation="vertical">
+
             <TextView
                 android:id="@+id/frag4_01"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="위인"
+                android:layout_marginTop="1dp"
+                android:background="#FFFFFF"
+                android:gravity="center_horizontal|center"
                 android:lines="1"
                 android:paddingTop="1dp"
-                android:layout_marginTop="1dp"
-                android:gravity="center_horizontal|center"
-                android:textSize="22sp"
-                android:background="#FFFFFF"/>
+                android:text="위인"
+                android:textSize="22sp" />
+
             <LinearLayout
                 android:id="@+id/linearLayout01"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical"
                 android:background="#0F48F7"
+                android:orientation="vertical"
                 android:visibility="gone">
 
                 <ImageView
+                    android:id="@+id/view1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_02" />
+
+                <ImageView
+                    android:id="@+id/view3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
-
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
             </LinearLayout>
+
             <TextView
                 android:id="@+id/frag4_02"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#FFFFFF"
-                android:lines="1"
-                android:textSize="22sp"
-                android:paddingTop="5dp"
-                android:gravity="center_horizontal|center"
-                android:paddingBottom="5dp"
                 android:layout_marginTop="1dp"
-                android:text="게임" />
+                android:background="#FFFFFF"
+                android:gravity="center_horizontal|center"
+                android:lines="1"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:text="게임"
+                android:textSize="22sp" />
+
             <LinearLayout
                 android:id="@+id/linearLayout02"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical"
                 android:background="#0F48F7"
+                android:orientation="vertical"
                 android:visibility="gone">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
             </LinearLayout>
+
             <TextView
                 android:id="@+id/frag4_03"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="영화"
-                android:textSize="22sp"
                 android:layout_marginTop="1dp"
+                android:background="#FFFFFF"
                 android:gravity="center_horizontal|center"
+                android:lines="1"
                 android:paddingTop="5dp"
                 android:paddingBottom="5dp"
-                android:lines="1"
-                android:background="#FFFFFF"/>
+                android:text="영화"
+                android:textSize="22sp" />
+
             <LinearLayout
                 android:id="@+id/linearLayout03"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical"
                 android:background="#0F48F7"
+                android:orientation="vertical"
                 android:visibility="gone">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
             </LinearLayout>
+
             <TextView
                 android:id="@+id/frag4_04"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="만화"
-                android:textSize="22sp"
+                android:layout_marginTop="1dp"
+                android:background="#FFFFFF"
                 android:gravity="center_horizontal|center"
+                android:lines="1"
                 android:paddingTop="5dp"
                 android:paddingBottom="5dp"
-                android:layout_marginTop="1dp"
-                android:lines="1"
-                android:background="#FFFFFF"/>
+                android:text="만화"
+                android:textSize="22sp" />
+
             <LinearLayout
                 android:id="@+id/linearLayout04"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical"
                 android:background="#0F48F7"
+                android:orientation="vertical"
                 android:visibility="gone">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
             </LinearLayout>
+
             <TextView
                 android:id="@+id/frag4_05"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="22sp"
                 android:layout_marginTop="1dp"
+                android:background="#FFFFFF"
+                android:gravity="center_horizontal|center"
+                android:lines="1"
                 android:paddingTop="5dp"
                 android:paddingBottom="5dp"
-                android:gravity="center_horizontal|center"
                 android:text="게임"
-                android:lines="1"
-                android:background="#FFFFFF"/>
+                android:textSize="22sp" />
+
             <LinearLayout
                 android:id="@+id/linearLayout05"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical"
                 android:background="#0F48F7"
+                android:orientation="vertical"
                 android:visibility="gone">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
             </LinearLayout>
+
             <TextView
                 android:id="@+id/frag4_06"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="1dp"
-                android:textSize="22sp"
+                android:background="#FFFFFF"
                 android:gravity="center_horizontal|center"
+                android:lines="1"
                 android:paddingTop="5dp"
                 android:paddingBottom="1dp"
                 android:text="애니"
-                android:lines="1"
-                android:background="#FFFFFF"/>
+                android:textSize="22sp" />
+
             <LinearLayout
                 android:id="@+id/linearLayout06"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical"
                 android:background="#0F48F7"
+                android:orientation="vertical"
                 android:visibility="gone">
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_01"/>
+                    android:src="@mipmap/setting_ex_01" />
 
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@mipmap/setting_ex_03"/>
+                    android:src="@mipmap/setting_ex_03" />
 
             </LinearLayout>
         </LinearLayout>
 
     </ScrollView>
 
+    <ScrollView
+        android:id="@+id/scrollView_like"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/view4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/setting_ex_01" />
+
+            <ImageView
+                android:id="@+id/view2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/setting_ex_02" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/setting_ex_01" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/setting_ex_03" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/setting_ex_01" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/setting_ex_02" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/setting_ex_01" />
+
+        </LinearLayout>
+
+    </ScrollView>
 </LinearLayout>

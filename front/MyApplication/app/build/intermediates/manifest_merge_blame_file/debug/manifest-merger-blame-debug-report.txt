@@ -31,7 +31,7 @@
 18-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:12:9-32
 19
 20    <application
-20-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:14:5-39:19
+20-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:14:5-40:19
 21        android:allowBackup="true"
 21-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:15:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -71,26 +71,29 @@
 37        <activity android:name="com.hack.sw_hack.CardInfoActivity" />
 37-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:28:9-54
 37-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:28:19-51
-38        <activity
-38-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:29:9-37:20
-39            android:name="com.hack.sw_hack.SplashActivity"
-39-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:30:13-43
-40            android:theme="@style/SplashTheme" >
-40-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:31:13-47
-41            <intent-filter>
-41-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:32:13-36:29
-42                <action android:name="android.intent.action.MAIN" />
-42-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:33:17-69
-42-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:33:25-66
-43
-44                <category android:name="android.intent.category.LAUNCHER" />
-44-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:35:17-77
-44-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:35:27-74
-45            </intent-filter>
-46        </activity>
-47        <activity android:name="com.hack.sw_hack.Frag2_1" />
-47-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:38:9-45
-47-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:38:19-42
-48    </application>
-49
-50</manifest>
+38        <activity android:name="com.hack.sw_hack.CardInfoActivity2" />
+38-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:29:9-55
+38-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:29:19-52
+39        <activity
+39-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:30:9-38:20
+40            android:name="com.hack.sw_hack.SplashActivity"
+40-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:31:13-43
+41            android:theme="@style/SplashTheme" >
+41-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:32:13-47
+42            <intent-filter>
+42-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:33:13-37:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:34:17-69
+43-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:34:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:36:17-77
+45-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:36:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity android:name="com.hack.sw_hack.Frag2_1" />
+48-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:39:9-45
+48-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:39:19-42
+49    </application>
+50
+51</manifest>

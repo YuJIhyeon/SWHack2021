@@ -2,6 +2,9 @@ com/hack/sw_hack/SingleItemModel.java
  com.hack.sw_hack.SingleItemModel
 com/hack/sw_hack/SelectActivity.java
  com.hack.sw_hack.SelectActivity
+com/hack/sw_hack/CardInfoActivity2.java
+ com.hack.sw_hack.CardInfoActivity2
+ com.hack.sw_hack.CardInfoActivity2$1
 com/hack/sw_hack/CardvModel.java
  com.hack.sw_hack.CardvModel
 com/hack/sw_hack/Frag3.java
@@ -44,6 +47,7 @@ com/hack/sw_hack/CardvAdapter.java
  com.hack.sw_hack.CardvAdapter
 com/hack/sw_hack/CardInfoActivity.java
  com.hack.sw_hack.CardInfoActivity
+ com.hack.sw_hack.CardInfoActivity$1
 com/hack/sw_hack/SplashActivity.java
  com.hack.sw_hack.SplashActivity
  com.hack.sw_hack.SplashActivity$1
@@ -56,11 +60,19 @@ com/hack/sw_hack/SectionDataModel.java
 com/hack/sw_hack/Frag4.java
  com.hack.sw_hack.Frag4
  com.hack.sw_hack.Frag4$1
+ com.hack.sw_hack.Frag4$10
+ com.hack.sw_hack.Frag4$11
+ com.hack.sw_hack.Frag4$12
+ com.hack.sw_hack.Frag4$13
+ com.hack.sw_hack.Frag4$14
  com.hack.sw_hack.Frag4$2
  com.hack.sw_hack.Frag4$3
  com.hack.sw_hack.Frag4$4
  com.hack.sw_hack.Frag4$5
  com.hack.sw_hack.Frag4$6
+ com.hack.sw_hack.Frag4$7
+ com.hack.sw_hack.Frag4$8
+ com.hack.sw_hack.Frag4$9
 com/hack/sw_hack/Frag1.java
  com.hack.sw_hack.Frag1
 com/hack/sw_hack/SignUpActivity.java
