@@ -6,94 +6,94 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml
+8-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml
+9-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml
 10    <!-- 인터넷 권한 추가 -->
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:5:5-67
-11-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:5:22-64
+11-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:6:5-81
-12-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:6:22-78
+12-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:6:22-78
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:7:5-80
-13-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:7:22-77
+13-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:7:22-77
 14    <uses-permission android:name="android.permission.CAMERA" />
-14-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:8:5-65
-14-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:8:22-62
+14-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:8:5-65
+14-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:8:22-62
 15
 16    <uses-feature
-16-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:10:5-12:35
+16-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:10:5-12:35
 17        android:name="android.hardware.camera"
-17-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:11:9-47
+17-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:11:9-47
 18        android:required="true" />
-18-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:12:9-32
+18-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:12:9-32
 19
 20    <application
-20-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:14:5-40:19
+20-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:14:5-40:19
 21        android:allowBackup="true"
-21-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:15:9-35
+21-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:15:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.3.1] /Users/gwang/.gradle/caches/transforms-2/files-2.1/8dbd859d1cd89239b42e7382b4fc40d7/core-1.3.1/AndroidManifest.xml:24:18-86
+22-->[androidx.core:core:1.3.1] C:\Users\HANLAB\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
 24        android:icon="@mipmap/icon_ver2"
-24-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:16:9-41
+24-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:16:9-41
 25        android:label="@string/app_name"
-25-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:17:9-41
+25-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:17:9-41
 26        android:roundIcon="@mipmap/icon_ver2"
-26-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:18:9-46
+26-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:18:9-46
 27        android:supportsRtl="true"
-27-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:19:9-35
+27-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:19:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.SW_Hack"
-29-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:21:9-45
+29-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:21:9-45
 30        android:usesCleartextTraffic="true" >
-30-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:20:9-44
+30-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:20:9-44
 31        <activity android:name="com.hack.sw_hack.MoreActivity" />
-31-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:22:9-59
-31-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:22:19-47
+31-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:22:9-59
+31-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:22:19-47
 32        <activity android:name="com.hack.sw_hack.popupEditActivity" />
-32-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:23:9-55
-32-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:23:19-52
+32-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:23:9-55
+32-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:23:19-52
 33        <activity android:name="com.hack.sw_hack.SelectActivity" />
-33-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:24:9-52
-33-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:24:19-49
+33-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:24:9-52
+33-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:24:19-49
 34        <activity android:name="com.hack.sw_hack.SignUpActivity" />
-34-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:25:9-52
-34-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:25:19-49
+34-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:25:9-52
+34-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:25:19-49
 35        <activity android:name="com.hack.sw_hack.MainActivity" />
-35-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:26:9-50
-35-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:26:19-47
+35-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:26:9-50
+35-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:26:19-47
 36        <activity android:name="com.hack.sw_hack.StartActivity" />
-36-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:27:9-51
-36-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:27:19-48
+36-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:27:9-51
+36-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:27:19-48
 37        <activity android:name="com.hack.sw_hack.CardInfoActivity" />
-37-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:28:9-54
-37-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:28:19-51
+37-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:28:9-54
+37-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:28:19-51
 38        <activity android:name="com.hack.sw_hack.CardInfoActivity2" />
-38-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:29:9-55
-38-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:29:19-52
+38-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:29:9-55
+38-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:29:19-52
 39        <activity
-39-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:30:9-38:20
+39-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:30:9-38:20
 40            android:name="com.hack.sw_hack.SplashActivity"
-40-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:31:13-43
+40-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:31:13-43
 41            android:theme="@style/SplashTheme" >
-41-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:32:13-47
+41-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:32:13-47
 42            <intent-filter>
-42-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:33:13-37:29
+42-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:33:13-37:29
 43                <action android:name="android.intent.action.MAIN" />
-43-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:34:17-69
-43-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:34:25-66
+43-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:34:17-69
+43-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:34:25-66
 44
 45                <category android:name="android.intent.category.LAUNCHER" />
-45-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:36:17-77
-45-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:36:27-74
+45-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:36:17-77
+45-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:36:27-74
 46            </intent-filter>
 47        </activity>
 48        <activity android:name="com.hack.sw_hack.Frag2_1" />
-48-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:39:9-45
-48-->/Users/gwang/Desktop/SWHack2021/front/MyApplication/app/src/main/AndroidManifest.xml:39:19-42
+48-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:39:9-45
+48-->C:\Users\HANLAB\Documents\GitHub\SWHack2021\front\MyApplication\app\src\main\AndroidManifest.xml:39:19-42
 49    </application>
 50
 51</manifest>
